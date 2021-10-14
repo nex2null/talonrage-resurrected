@@ -53,7 +53,7 @@ Runeword131	Splendor	1			shld									EthLum	r05	r17					allskills		1	1	cast2		1
 Runeword132	Starlight	1			weap	armo	shld							ZodHelIstEl	r33	r15	r24	r01			allskills		3	3	dmg-norm		35	140	ac%		100	200	ease		-80	-80	mag%		150	300	levelreq		20	20	balance3		20	20	0
 Runeword135	Still Water	1			abow									GulUmMalNef	r25	r22	r23	r04			ama		1	1	swing1		20	20	dmg-norm		30	150	dmg%		80	120	skilltab	0	2	2	heal-kill		15	20	dmg-cold	300	100	150	0
 Runeword30	Duress	1			tors									ShaelUmThul	r13	r22	r10				balance2		20	20	dmg%		10	20	dmg-cold	75	37	133	crush		15	15	openwounds		33	33	ac%		150	200	stamdrain		-20	-20	0
-Runeword138	Storm	1			spear									JahUmOhmOrtNef	r31	r22	r27	r09	r04		dmg%		333	333	swing1		20	20	hit-skill	49	16	21	oskill	thunder storm	10	10	res-ltng		100	100	abs-ltng%		25	25	addxp		3	3	0
+Runeword138	Storm	1			spea									JahUmOhmOrtNef	r31	r22	r27	r09	r04		dmg%		333	333	swing1		20	20	hit-skill	49	16	21	oskill	thunder storm	10	10	res-ltng		100	100	abs-ltng%		25	25	addxp		3	3	0
 Runeword140	Tempest	1			h2h									LemThul	r20	r10					dmg-cold		30	70	dmg-fire		100	200	dmg-ltng		1	300	extra-ltng		20	30	ass		2	2	skilltab	18	3	3	dmg%		140	190	0
 Runeword141	Temptation	1			mace									OrtNefEl	r09	r04	r01				addxp		10	15	dmg%		176	176	allskills		1	1	all-stats		-10	-10	swing1		20	20									0
 Runeword142	Terror	1			necr									LumMal	r17	r23					gethit-skill	77	100	10	nec		2	2	skill-rand	3	66	95	ac/lvl	12			cast2		25	25	mag%/lvl	8			oskill	fanaticism	3	3	0
@@ -79,7 +79,7 @@ Runeword8	Bone	1			necr									BerUm	r30	r22					nec		2	2	skilltab	7	4	4	skill	
 Runeword10	Brand	1			miss									JahLoMalGul	r31	r28	r23	r25			gethit-skill	66	35	14	hit-skill	84	100	18	explosivearrow		1	1	dmg%		260	340	dmg-demon		280	330	knock		1	1					0
 Runeword12	Broken Promise	1			weap									ChamVexAmnShaelLo	r32	r26	r11	r13	r28		dmg%		350	400	allskills		2	2	dmg/lvl	24			addxp		-5	-5	hit-skill	93	18	18	levelreq		15	15	crush/time	1	1	100	0
 Runeword15	Chance	1			shld									EthIthTir	r05	r06	r03				block		15	15	block2		20	20	mana		25	25	cast1		15	15	mag%		20	30	gold%		75	75					0
-Runeword136	Sting	1			miss									NefTalEth	r04	r07	r05				dmg-max		25	40	swing1		15	15	manasteal		5	8	oskill	multiple Shot	3	3	oskill	ice arrow	5	5									0
+Runeword136	Sting	1			miss									NefTalEth	r04	r07	r05				dmg-max		25	40	swing1		15	15	manasteal		5	8	oskill	Multiple Shot	3	3	oskill	ice arrow	5	5									0
 Runeword18	Darkness	1			h2h									ZodAmnVex	r33	r11	r26				ass		3	3	str/time	1	1	100	vit/time	3	1	100	dmg-norm		75	150	res-all		20	40	red-dmg%		15	15	mag%/lvl	8			0
 Runeword19	Daylight	1			orb									JahFalUm	r31	r19	r22				sor		3	3	regen-mana		50	50	cast2		30	30	aura	123	4	4	charged	91	33	18	mana%		50	50	hp%		25	25	0
 Runeword20	Death	1			swor	axe								HelElVexOrtGul	r15	r01	r26	r09	r25		death-skill	53	100	44	att-skill	55	25	18	indestruct		1	1	dmg%		300	385	crush		50	50	deadly/lvl	4			charged	85	15	22	0
@@ -93,7 +93,7 @@ Runeword28	Dread	1			tors									DolElIth	r14	r01	r06				ac%		100	125	hit-skill
 Runeword29	Dream	1			helm	shld								IoJahPul	r16	r31	r21				gethit-skill	81	10	15	aura	118	15	15	balance2		20	30	ac		150	220	mana/lvl	5			res-all		5	20	mag%		15	25	0
 Runeword56	Dweomer	1			armo	shld								ThulEld	r10	r02					sor		1	1	mana		50	75	cast1		15	15	addxp		1	3	regen-mana		60	70	res-mag		5	10	levelreq		3	3	0
 Runeword31	Edge	1			miss									TirTalAmn	r03	r07	r11				aura	103	15	15	swing2		35	35	dmg-demon		320	380	dmg-undead		280	280	noheal		1	1	cheap		15	15	all-stats		8	9	0
-1	Enlightenment	1			drui									TirUmLum	r03	r22	r17				dru		2	2	skill-rand	3	221	250	regen-mana		75	75	skilltab	17	3	3	gethit-skill	235	30	20	red-dmg%		20	25	block2		20	20	0
+Runeword34	Enlightenment	1			drui									TirUmLum	r03	r22	r17				dru		2	2	skill-rand	3	221	250	regen-mana		75	75	skilltab	17	3	3	gethit-skill	235	30	20	red-dmg%		20	25	block2		20	20	0
 Runeword35	Envy	1			weap									FalKoLumIo	r19	r18	r17	r16			dmg%		222	222	swing2		30	30	manasteal		6	6	lifesteal		6	6	addxp		2	2	mag%		35	35	res-all		25	25	0
 Runeword52	Heaven's Will	1			pala									DolEld	r14	r02					pal		1	1	block		50	50	block3		30	30	dmg%		30	50	rip		1	1	skill	121	6	6					0
 Runeword53	Holy Tears	1			scep									IoTirShael	r16	r03	r13				dmg%		160	200	hit-skill	121	16	9	dmg-demon		300	300	att%		35	35	slow		35	35	oskill	zeal	5	5	swing2		20	20	0
@@ -102,7 +102,7 @@ Runeword58	Hunger	1			shld									AmnHel	r11	r15					levelreq		8	8	block		15	30
 Runeword59	Ice	1			miss									AmnShaelJahLo	r11	r13	r31	r28			levelup-skill	59	100	40	hit-skill	44	25	22	aura	114	18	18	dmg%		140	210	extra-cold		25	30	pierce-cold		20	20	gold%/lvl	25			0
 Runeword60	Infinity	1			pole									BerMalBerIst	r30	r23	r30	r24			kill-skill	53	50	20	aura	123	12	12	move2		35	35	dmg%		255	325	pierce-ltng		55	55	vit/lvl	4			charged	235	30	21	0
 Runeword61	Innocence	1			hamm									VexLemIst	r26	r20	r24				dmg%		190	240	dmg/lvl	16			rep-dur	15			allskills		2	2	hp%		25	25	all-stats		15	25	addxp		-3	-3	0
-Runeword62	Insight	1			pole	staff								RalTirTalSol	r08	r03	r07	r12			aura	120	12	17	cast2		35	35	dmg%		200	260	att%		180	250	oskill	9	1	6	all-stats		5	5	mag%		23	23	0
+Runeword62	Insight	1			pole	staf								RalTirTalSol	r08	r03	r07	r12			aura	120	12	17	cast2		35	35	dmg%		200	260	att%		180	250	oskill	9	1	6	all-stats		5	5	mag%		23	23	0
 Runeword63	Jealousy	1			spea									TalEld	r07	r02					dmg%		122	122	lifesteal		7	7	manasteal		7	7	oskill	jab	3	3	oskill	spear mastery	3	3	swing2		20	20					0
 Runeword64	Judgment	1			pala									UmHelUm	r22	r15	r22				pal		2	2	ignore-ac		1	1	block		25	35	dmg-max		20	30	gethit-skill	117	2	35	gethit-skill	87	50	5	red-mag		35	50	0
 Runeword67	Knight's Vigil	1			armo	shld								BerLemUmIst	r30	r20	r22	r24			pal		2	2	aura	120	8	12	cast3		40	40	block		20	30	block2		20	20	levelreq		12	12	regen		10	15	0
@@ -133,7 +133,7 @@ Runeword109	Pride	1			pole									ChamSurLoIo	r32	r29	r28	r16			gethit-skill	51
 Runeword110	Principle	1			aspe									ShaekFalKoShael	r13	r19	r18	r13			dmg%		200	260	rip		1	1	addxp		2	2	ama		2	2	res-all		35	35	charged	57	10	20	charged	235	22	10	0
 Runeword111	Prowess in Battle	1			barb									JahIstFal	r31	r24	r19				levelreq		10	10	bar		3	3	att%		50	50	aura	122	6	6	dmg%		100	100	balance3		40	40	ac/lvl	24			0
 Runeword112	Prudence	1			tors									MalTir	r23	r03					balance2		25	25	ac%		140	170	res-all		25	35	red-dmg		3	3	red-mag		10	10	light		1	1	rep-dur	25			0
-Runeword113	Punishment	1			swor									OrtDolAmn	r09	r14	r11				dmg%		135	135	dmg-norm		20	40	regen		-3	-3	addxp		-2	-2	all-stats		20	20	levelup-skill	thunder Storm	100	35	red-dmg		15	20	0
+Runeword113	Punishment	1			swor									OrtDolAmn	r09	r14	r11				dmg%		135	135	dmg-norm		20	40	regen		-3	-3	addxp		-2	-2	all-stats		20	20	levelup-skill	Thunder Storm	100	35	red-dmg		15	20	0
 Runeword114	Purity	1			shld									JahIstShaelZod	r31	r24	r13	r33			block		55	55	heal-kill		15	15	balance3		50	50	res-all		30	50	gethit-skill	68	10	19	hit-skill	71	35	8	ac/lvl	32			0
 Runeword115	Question	1			swor									KoNef	r18	r04					mag%/lvl	12			gold%/lvl	16			str/lvl	6			dex/lvl	6			vit/lvl	6			enr/lvl	6			dex		-10	-10	0
 Runeword117	Rain	1			circ									BerChamBer	r30	r32	r30				levelreq		22	22	allskills		4	4	hp		100	150	mana		60	100	all-stats		25	25	regen		20	20	regen-mana		100	100	0
