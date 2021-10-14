@@ -93,7 +93,7 @@ Runeword28	Dread	1			tors									DolElIth	r14	r01	r06				ac%		100	125	hit-skill
 Runeword29	Dream	1			helm	shld								IoJahPul	r16	r31	r21				gethit-skill	81	10	15	aura	118	15	15	balance2		20	30	ac		150	220	mana/lvl	5			res-all		5	20	mag%		15	25	0
 Runeword56	Dweomer	1			armo	shld								ThulEld	r10	r02					sor		1	1	mana		50	75	cast1		15	15	addxp		1	3	regen-mana		60	70	res-mag		5	10	levelreq		3	3	0
 Runeword31	Edge	1			miss									TirTalAmn	r03	r07	r11				aura	103	15	15	swing2		35	35	dmg-demon		320	380	dmg-undead		280	280	noheal		1	1	cheap		15	15	all-stats		8	9	0
-1	Enlightenment	1			drui									TirUmLum	r03	r22	r17				dru		2	2	skill-rand	3	221	250	regen-mana		75	75	skilltab	17	3	3	gethit-skill	235	30	20	red-dmg%		20	25	block2		20	20	0
+Runeword34	Enlightenment	1			drui									TirUmLum	r03	r22	r17				dru		2	2	skill-rand	3	221	250	regen-mana		75	75	skilltab	17	3	3	gethit-skill	235	30	20	red-dmg%		20	25	block2		20	20	0
 Runeword35	Envy	1			weap									FalKoLumIo	r19	r18	r17	r16			dmg%		222	222	swing2		30	30	manasteal		6	6	lifesteal		6	6	addxp		2	2	mag%		35	35	res-all		25	25	0
 Runeword52	Heaven's Will	1			pala									DolEld	r14	r02					pal		1	1	block		50	50	block3		30	30	dmg%		30	50	rip		1	1	skill	121	6	6					0
 Runeword53	Holy Tears	1			scep									IoTirShael	r16	r03	r13				dmg%		160	200	hit-skill	121	16	9	dmg-demon		300	300	att%		35	35	slow		35	35	oskill	zeal	5	5	swing2		20	20	0
