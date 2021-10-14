@@ -519,7 +519,7 @@ The Mangler	514	100	1		3		1	49	9gs	tusk sword		5	5000	dgld	dgld		invgis				dmg%	
 Na-Krul's Power	515	100	1		1		55	59	9b9	gothic sword		5	5000	lgry	lgry						dmg%		190	225	dmg-max		45	60	str/lvl	3			heal-kill		20	30	mana-kill		3	5	oskill	sword mastery	3	5	cast2		25	25	red-dmg%		10	15																		0
 No Quarter Given	516	100	1		3		1	51	9b9	gothic sword		5	5000	cgrn	cgrn		invbsw				dmg%		210	255	swing3		25	25	knock		3	3	oskill	stun	3	3	slow		20	20	move3		30	30	block3		30	30																						0
 Black Razor	517	100	1		1		55	61	9fb	zweihander		5	5000	blac	blac						dmg%		200	260	dmg-norm		25	50	deadly		44	44	openwounds		66	66	lifesteal		12	12	att%		30	30	bar		2	2																						0
-Demand for Justice	518	100	1		3		1	54	9fb	zweihander		5	5000	whit	whit		invflb				dmg%		215	260	allskills		1	1	addxp		6	10	demon-heal		5	12	kill-skill	static Field	22	13	ac		75	75	charged	276	15	30	balance2		20	20																		0
+Demand for Justice	518	100	1		3		1	54	9fb	zweihander		5	5000	whit	whit		invflb				dmg%		215	260	allskills		1	1	addxp		6	10	demon-heal		5	12	kill-skill	Static Field	22	13	ac		75	75	charged	276	15	30	balance2		20	20																		0
 Thundercall	519	100	1		1		55	65	9gd	executioner sword		5	5000	dyel	dyel						dmg%		160	220	swing2		25	25	hit-skill	49	37	3	gethit-skill	53	4	11	res-ltng		35	70	res-fire		35	70	mag%		30	40	gold%		100	150	hp		50	50														0
 The Quick and the Dead	520	100	1		3		1	56	9gd	executioner sword		5	5000	cblu	cblu		invgsd				dmg%		220	260	swing3		50	50	sock		3	6	bar		1	1	oskill	sword mastery	1	3																														0
 Dragon's Breach	521	100	1		1		1	68	72h	legend sword		5	5000	dred	dred						dmg%		220	300	dmg-fire		200	300	dmg-cold	200	200	300	res-all		20	45	move2		20	20	balance2		20	20	allskills		2	2																						0
@@ -670,7 +670,7 @@ Touch of Evil	665	100	1		1		29	29	lst	long staff		5	5000	blac	blac		invlst				dm
 Puppeteer's Staff	666	100	1		3		1	12	lst	long staff		5	5000				invstaf3				dmg%		110	150	skill-rand	1	36	50	skill-rand	2	36	50	skill-rand	2	36	50	fireskill		1	1	cast2		20	20	oskill	clay golem	5	7	oskill	summon spirit wolf	3	3																		0
 Serpent Lord1	667	0	1		5		1	9	lst	Long Staff		5	5000	cgrn	cgrn						dmg-pois	75	40	40	res-pois		50	50	light		-1	-1	mana		10	10	dmg%		60	90	manasteal		100	100	reduce-ac		50	50																						0
 Wizard's Rule	668	100	1		1		30	32	cst	gnarled staff		5	5000				invcst				skill-rand	3	36	65	skill-rand	3	36	65	skill-rand	2	36	65	skill-rand	2	36	65	mana-kill		3	6	cast2		20	20	res-all		20	30																						0
-Sage's Retort	669	100	1		3		1	17	cst	gnarled staff		5	5000	oran	oran		invstaf9				dmg%		125	175	gethit-skill	44	50	2	gethit-skill	42	3	7	regen-mana		75	75	mana%		15	15	kill-skill		6	6																										0
+Sage's Retort	669	100	1		3		1	17	cst	gnarled staff		5	5000	oran	oran		invstaf9				dmg%		125	175	gethit-skill	44	50	2	gethit-skill	42	3	7	regen-mana		75	75	mana%		15	15	kill-skill	Frost Nova	6	6																										0
 Staff of the Arch-Magus	670	100	1		1		31	36	bst	battle staff		5	5000	cred	cred		invbst				allskills		2	2	mana/lvl	10			str		25	25	dex		25	25	cast3		30	30	skilltab	4	2	2	rip		1	1	addxp		3	5																		0
 Strange Alchemy	671	100	1		3		1	23	bst	battle staff		5	5000								oskill	warmth	1	3	oskill	frozen armor	1	3	oskill	bone armor	1	3	oskill	cyclone armor	1	3	dmg-norm		15	30	swing2		20	20	dmg%		100	100																						0
 Warmth of Ash	672	100	1		1		32	40	wst	war staff		5	5000	dgry			invstaf12				fireskill		5	5	dmg-min		15	25	dmg-max		60	80	dmg-fire		75	100	res-fire		65	65	abs-cold		10	20	skill-rand	2	36	65																						0
@@ -1198,7 +1198,7 @@ Grip of the Gorgon	1193	100	1		3		1	10	pa2	Rondache		5	5000	cgrn	cgrn						ac%		
 Felix's Brace	1194	100	1		1		1	22	pa3	heraldic shield		5	5000	oran	oran						ac%		75	100	block		25	35	block2		20	20	dex		15	15	res-all		15	25	red-dmg		10	15	balance3		40	40																						0
 Secret of Steel	1195	100	1		3		1	15	pa3	Heraldic Shield		5	5000								ac%		75	100	ac		20	40	red-dmg%		10	20	ease		-15	-15	block		15	15	block2		25	25	balance2		25	25																						0
 Bastion of Hope	1196	100	1		3		1	20	pa4	aerin shield		5	5000	cgrn	cgrn						ac%		90	130	block		25	35	block2		20	20	str		20	20	vit		15	15	addxp		3	5	pal		1	1	res-all		15	25																		0
-Hellchatter	1197	100	1		1		1	27	pa4	Aerin Shield		5	5000	dred	dred						ac		40	50	pal		1	1	res-all		60	70	dmg-fire		16	24	hit-skill	76	10	7	rep-dur		7		dur		45	45																						0
+Hellchatter	1197	100	1		1		1	27	pa4	Aerin Shield		5	5000	dred	dred						ac		40	50	pal		1	1	res-all		60	70	dmg-fire		16	24	hit-skill	76	10	7	rep-dur	7			dur		45	45																						0
 King's Guard	1198	100	1		3		1	25	pa5	crown shield		5	5000	cred	cred						ac		75	120	block		30	40	block2		20	20	dmg%		20	30	red-dmg%		15	15	res-mag		15	15	lifesteal		5	5	cheap		10	15																		0
 Devourer of Worlds	1199	100	1		1		1	32	pa5	Crown Shield		5	5000	blac	blac						ac%		75	100	dmg%		25	50	sock		2	4	pal		1	2																																		0
 Death to the Soul	1200	100	1		1		1	37	pa6	akaran targe		5	5000	blac	blac						ac%		120	150	block		30	45	balance2		25	25	allskills		1	1	res-all		40	60	rip		1	1	sock		1	1	charged	258	5	12																		0
@@ -1206,7 +1206,7 @@ Twilight Presence	1201	100	1		3		1	30	pa6	Akaran Targe		5	5000	lgry	lgry						ac
 Knight's Holy Sigil	1202	100	1		1		1	41	pa7	akaran rondache		5	5000	whit	whit						ac/lvl	16			block		35	45	block2		30	30	dmg-demon		200	200	dmg-undead		200	200	dmg%		30	40	att%		25	25	pal		1	2	skill	117	2	3														0
 Voice of the Prophet	1203	100	1		3		1	34	pa7	Akaran Rondache		5	5000								charged	138	1	30	charged	149	1	30	charged	155	1	30	res-all		40	40	allskills		2	2	hp%		15	15	rip		1	1																						0
 Defender of Innocence	1204	100	1		1		1	45	pa8	protector shield		5	5000								ac%		120	160	ac		35	50	block		25	30	balance2		35	35	aura	104	5	8	gethit-skill	40	17	1	res-mag		15	15																						0
-Black Rain	1205	100	1		3		1	39	pa8	Protector Shield		5	5000	blac	blac						ac%		100	150	res-fire		50	50	res-cold		35	35	dmg-ltng		10	100	stupidity		2	2	kill-skill	static field	100	3	aura	118	5	8																						0
+Black Rain	1205	100	1		3		1	39	pa8	Protector Shield		5	5000	blac	blac						ac%		100	150	res-fire		50	50	res-cold		35	35	dmg-ltng		10	100	stupidity		2	2	kill-skill	Static Field	100	3	aura	118	5	8																						0
 Crusader's Will	1206	100	1		1		1	50	pa9	guilded shield		5	5000	oran	oran						ac%		125	175	block		35	35	balance2		20	20	cast3		40	40	mana		70	125	mana-kill		6	10	all-stats		10	10	pal		2	2																		0
 Wisdom of Thoth	1207	100	1		3		1	46	paa	royal shield		5	5000	dpur	dpur						ac		100	150	allskills		2	2	skilltab	10	1	3	enr		25	25	addxp		3	5	res-all		30	60	sock		2	2																						0
 Grand Inquisitor	1208	100	1		1		1	54	paa	Royal Shield		5	5000								ac%		125	200	block		35	35	block3		50	50	balance3		50	50	addxp		10	15	dmg%		50	50	pal		3	3	res-all-max		10	10																		0
@@ -1302,7 +1302,7 @@ Heat of Summer	1297	100	1		3		1	43	9xf	fascia		5	5000	lred	lred						dmg%		200	2
 Scarab Cleaver	1298	100	1		5		1	36	9xf	Fascia		5	5000	cblu	cblu						dmg%		150	200	swing2		20	20	ass		2	2	sock		1	2	res-ltng		75	75	abs-ltng		20	25	dmg-demon		150	250	dmg-max		10	10																		0
 Fullsuffering	1299	100	1		1		55	63	9cs	hand scythe		5	5000				invclaw2				dmg%		100	120	dmg-min		24	40	dmg-max		55	90	skilltab	20	2	2	allskills		2	2	hit-skill	66	20	5	res-fire		25	35	cheap		5	10	mana-kill		6	6														0
 Chi Strike	1300	100	1		3		1	46	9cs	hand scythe		5	5000	lpur	lpur						dmg%		205	255	skill	253	5	7	ass		1	1	deadly		33	33	res-all		20	40	enr		15	25	red-dmg		10	15	heal-kill		8	8																		0
-Slithertongue	1301	100	1		5		1	38	9cs	Hand Scythe		5	5000	lgrn	lgrn						dmg%		175	220	res-pois		45	45	res-pois-max		10	20	res-pois-len		75	75	dmg-pois	125	1000	1000	skilltab	21	1	3	dex		15	15	enr		20	20	dmg-max		15	20														0
+Slithertongue	1301	100	1		5		1	38	9cs	Hand Scythe		5	5000	lgrn	lgrn						dmg%		175	220	res-pois		45	45	res-pois-max		10	20	res-pois-len		75	75	dmg-pois	125	1000	1000	skilltab	20	1	3	dex		15	15	enr		20	20	dmg-max		15	20														0
 Wight Claw	1302	100	1		1		55	65	9lw	greater claws		5	5000	blac	blac						dmg%		110	130	dmg-min		27	40	dmg-max		60	90	skilltab	19	2	2	ass		1	1	lifesteal		10	10	manasteal		10	10	regen		10	10	regen-mana		65	65														0
 Shadowy Places	1303	100	1		3		1	48	9lw	greater claws		5	5000	dgry	dgry						dmg%		215	265	skill-rand	4	251	280	skill-rand	3	251	280	skill-rand	3	251	280	skill-rand	2	251	280	skill-rand	2	251	280	ass		1	1	swing2		20	20																		0
 Werewolf Talons	1304	100	1		5		1	40	9lw	Greater Claws		5	5000								dmg%		175	240	swing3		30	30	allskills		2	2	oskill	shape shifting	5	8	oskill	wearwolf	5	8	oskill	fury	1	3	att%		25	25	sock		1	2																		0
@@ -1343,7 +1343,7 @@ Rat Lord's Gate	1338	100	1		6		38	38	amu	amulet		5	5000				invammy1				dmg-demon
 Luck Sigil	1339	100	1		5		45	45	amu	amulet		5	5000				invammy3				allskills		1	1	mag%/lvl	12			gold%/lvl	16			att%		10	10	fade		1	1																														0
 The Vanquisher	1340	100	1		3		75	75	amu	amulet		5	5000				invammy9				dmg%		50	50	dmg-max		10	20	cast2		20	20	lifesteal		8	8	manasteal		5	8	swing2		25	25																										0
 Foulsigil	1341	100	1		3		78	78	amu	amulet		5	5000				invammy13				allskills		1	2	all-stats		15	25	regen		-3	-3	res-pois		65	65	swing1		15	15	block		15	15	nofreeze		1	1																						0
-Veil of Despair	1342	100	1		1		85	85	amu	amulet		5	5000				invammy6				allskills		2	2	block		10	15	kill-skill		5	15	mag%		35	50	gold%/lvl	16			att%		25	25	res-all-max		5	20	res-all		20	50																		0
+Veil of Despair	1342	100	1		1		85	85	amu	amulet		5	5000				invammy6				allskills		2	2	block		10	15	kill-skill	corpse explosion	5	15	mag%		35	50	gold%/lvl	16			att%		25	25	res-all-max		5	20	res-all		20	50																		0
 Autumn's Avatar	1343	100	1		5		12	12	cm1	charm	1	5	5000				invscm3				hp		12	15	mana		10	12	dmg-max		3	3	str		1	3																																		0
 Remembrance of Glory	1344	100	1		4		29	29	cm1	charm	1	5	5000				invscm1				hp		20	20	mana		17	17	res-all		5	5	dex		5	5																																		0
 Argo's Anchor	1345	100	1		3		48	48	cm1	charm	1	5	5000				invscm4				dmg-max		5	5	mag%		7	7	block		5	10	att		50	75																																		0
