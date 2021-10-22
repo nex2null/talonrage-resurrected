@@ -10,11 +10,11 @@ hireable		1	1		1		1		1		rogueicon	338	act2hireableicon	359	act3hireableicon	561	
 dopplezon		0				1	1		1										
 invis		0	1																
 raven		0	1					strUI5		2	raven								
-spiritwolf	1	0	1		1	1	1	strUI6	1	2	wolf								
-fenris	1	0	1		1	1	1	UIFenirsui	1	2	wolf								
+spiritwolf		0	1		1	1	1	strUI6	1	2	wolf								
+fenris		0	1		1	1	1	UIFenirsui	1	2	wolf								
 totem		0	1		1	1	1	strUI14	1	3	oaksage	423	heartofwolverine	422	spiritofbarbs				
 vine		0	1		1	1	1	strUI13	1	3	plaguepoppy	426	cycleoflife	427	vines				
-grizzly	1	0	1		1	1	1	strUI7	1	1	bear								
+grizzly		0	1		1	1	1	strUI7	1	1	bear								
 shadowwarrior		0	1		1	1	1	UiShadowUI	1	1	shadowassassin								
 assassintrap		0		1															
 pettrap		0		1															
