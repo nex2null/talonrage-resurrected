@@ -1,0 +1,536 @@
+All existing "Vanilla" Formulas are enabled and unchanged "except" : Runes dont use gems to upgrade;
+                                                                         3 rings reroll a ring;
+                                                                         3 amulets reroll an amulet.
+
+    All Realm-Only "Ladder" Formulas have been enabled (not really sure if they were disabled)
+    Added the following Formulas : 270 Total
+
+ ** Beware upgrading Uniques that have added level requirements from cubing. The Level of the base item is added to the 
+ levels gain from cubing. 
+
+ NOTE : Some crafting formulas may seem "weak" based on the required runes , but if applied with my Prefix/Suffix Plugin 
+ (Due for release in a few weaks) then Mods from the Random effects can be VERY powerful.
+
+
+ 1) Rune Upgrades
+------------------
+    Any 3 Runes up to Lem   = Upgraded to Next Rune Type
+    Any 2 Runes from Pul up = Upgraded to Next Rune Type
+
+
+
+ 2) 3 Magic Charms of Same Type = New magic Charm of Same type
+----------------------------------------------------------------
+    Any 3 Magic Small Charms  = Rerolled Small Charm (at 100% Character Level)
+    Any 3 Magic Large Charms  = Rerolled Large Charm (at 100% Character Level)
+    Any 3 Magic Grand Charms  = Rerolled Grand Charm (at 100% Character Level)
+
+
+
+ 3) 3 Jewels of Same Type = New Jewel of Same type
+---------------------------------------------------------------
+    Any 3 Magic Jewels = Rerolled Magic Jewel (at 100% Character Level)
+    Any 3 Rare Jewels  = Rerolled Rare Jewel  (at 100% Character Level)
+
+
+
+ 4) 3 Rings = New Ring 
+----------------------------------
+    Any 3 Magic Rings = Rerolled Magic Ring  (at 75%  Character Level)
+    Any 3 Rare Rings  = Rerolled Rare Ring   (at 100% Character Level)
+
+
+
+ 5) 3 Amulets = New Amulet 
+------------------------------------- 
+    Any 3 Magic Amulets = Rerolled Magic Amulet (at 75%  Character Level)
+    Any 3 Rare Amulets  = rerolled Rare Amulet  (at 100% Character Level)
+
+
+
+ 6) Unique Arrows & Bolts
+--------------------------    
+    Quiver of Arrows + Tir Rune  + Regular Amethyst  = Normal Unique Arrows (lvl 6 rquired)**
+    Quiver of Bolts  + Tir Rune  + Regular Amethyst  = Normal Unique Bolts (lvl 6 rquired)**
+    Quiver of Arrows + Thul Rune + Perfect Topaz     = Exceptional Unique Arrows (lvl 35 rquired)**
+    Quiver of Bolts  + Thul Rune + Perfect Topaz     = Exceptional Unique Bolts (lvl 35 rquired)**
+    Quiver of Arrows + Fal Rune  + Perfect Saphire   = Elite Unique Arrows (lvl 65 rquired)**
+    Quiver of Bolts  + Fal Rune  + Perfect Saphire   = Elite Unique Bolts (lvl 65 rquired)**
+    Any Unique Arrows or Bolts + Any Health Potion   = Replenish Arrow Stack to 244**
+
+ 
+ 7) Socketed Armor , Shields & Weapons (for Runewords)
+-------------------------------------------------------
+    Magic Armor +  Sol Rune    = Normal 2 Socket Armor
+    Magic Armor +  Shael Rune  = Normal 3 Socket Armor
+    Magic Armor +  Dol Rune    = Normal 4 Socket Armor
+    Magic Weapon + Amn Rune    = Normal 2 Socket Weapon
+    Magic Weapon + Sol Rune    = Normal 3 Socket Weapon
+    Magic Weapon + Shael Rune  = Normal 4 Socket Weapon
+    Magic Weapon + Dol Rune    = Normal 5 Socket Weapon
+    Magic Weapon + Hel Rune    = Normal 6 Socket Weapon
+
+
+
+ 8) Adding Sockets to Armor , Shields & Weapons
+------------------------------------------------
+   Set & Unique Weapon/Armor Types/Shield + Lem  Rune   = Adds 1 Socket to Item**
+   Rare & Crafted Weapon/Armor Types/Shield + Hel Rune  = Adds 2 Socket to Item**
+   Magic Weapon/Armor Types/Shield + Thul  Rune         = Adds 3 Socket to Item**
+
+   ** Works on gloves , belts , boots but item will NOT get a socket if it's not set up to.
+
+
+ 9a) Weapons & Chipped Gems
+----------------------------
+    Any Weapon + Chipped Topaz    = Adds 1 - 4 Lightning Damage (+1 Level)
+    Any Weapon + Chipped Ruby     = Adds 2 - 3 Fire Damage      (+1 Level)   
+    Any Weapon + Chipped Saphire  = Adds 1 - 2 Cold Damage      (+1 Level)
+    Any Weapon + Chipped Emerald  = Adds 6 Poison Damage (6s)   (+1 Level)
+    Any Weapon + Chipped Skull    = Adds +1 Maximum Damage      (+1 Level)
+    Any Weapon + Chipped Amethyst = Adds +20 Attack rating      (+1 Level)
+    Any Weapon + Chipped Diamond  = Adds +1 Durability          (+1 Level)
+
+
+
+ 9b) Weapons & Flawed Gems
+----------------------------
+    Any Weapon + Flawed Topaz    = Adds 1 - 15 Lightning Damage (+3 Levels)
+    Any Weapon + Flawed Ruby     = Adds 6 - 9 Fire Damage       (+3 Levels)   
+    Any Weapon + Flawed Saphire  = Adds 3 - 6 Cold Damage       (+3 Levels)
+    Any Weapon + Flawed Emerald  = Adds 12 Poison Damage (6s)   (+3 Levels)
+    Any Weapon + Flawed Skull    = Adds + 1-4 Normal Damage     (+3 Levels)
+    Any Weapon + Flawed Amethyst = Adds +30 Attack rating       (+3 Levels)
+    Any Weapon + Flawed Diamond  = Adds +2 Durability           (+1 Levels)
+
+
+
+ 9c) Weapons & Regular Gems
+----------------------------
+    Any Weapon + Flawed Topaz    = Adds 1 - 30 Lightning Damage (+5-6 Levels)
+    Any Weapon + Flawed Ruby     = Adds 12 - 20 Fire Damage     (+5-6 Levels)   
+    Any Weapon + Flawed Saphire  = Adds 6 - 12 Cold Damage      (+5-6 Levels)
+    Any Weapon + Flawed Emerald  = Adds 18 Poison Damage (6s)   (+5-6 Levels)
+    Any Weapon + Flawed Skull    = Adds + 2-7 Normal Damage     (+5-6 Levels)
+    Any Weapon + Flawed Amethyst = Adds +50 Attack rating       (+5-6 Levels)
+    Any Weapon + Flawed Diamond  = Adds +3 Durability           (+1 Level)
+
+
+
+ 9d) Weapons & Flawless Gems
+-----------------------------
+    Any Weapon + Flawed Topaz    = Adds 1 - 50 Lightning Damage (+8 Levels)
+    Any Weapon + Flawed Ruby     = Adds 18 - 35 Fire Damage     (+8 Levels)   
+    Any Weapon + Flawed Saphire  = Adds 12 - 20 Cold Damage     (+8 Levels)
+    Any Weapon + Flawed Emerald  = Adds 35 Poison Damage (6s)   (+8 Levels)
+    Any Weapon + Flawed Skull    = Adds + 3-11 Normal Damage    (+8 Levels)
+    Any Weapon + Flawed Amethyst = Adds +75 Attack rating       (+8 Levels)
+    Any Weapon + Flawed Diamond  = Adds +4 Durability           (+1 Level)
+
+
+
+ 9e) Weapons & Perfect Gems
+--------------------------
+    Any Weapon + Perfect Topaz    = Adds 1 - 75 Lightning DMG   (+11  Levels)
+    Any Weapon + Perfect Ruby     = Adds 30 - 50 Fire Damage    (+11  Levels)
+    Any Weapon + Perfect Saphire  = Adds 20 - 30 Cold Damage    (+11  Levels)
+    Any Weapon + Perfect Emerald  = Adds 100 Poison Damage (7s) (+11  Levels)
+    Any Weapon + Perfect Skull    = Adds + 5-15 Normal Damage   (+12  Levels)
+    Any Weapon + 3 Perfect Skulls = Adds 1% life/mana Steal     (+7   Levels)
+    Any Weapon + Perfect Amethyst = Adds +5% to Attack Rating   (+9   Levels)
+    Any Weapon + Perfect Diamond  = Adds 5 to Total Durability  (+1   Levels)
+
+
+
+ 10) All Armor Types  & Perfect Gems
+------------------------------------
+    Any Armor + Perfect Diamond     = Adds 5 Durability  (+1  Levels)
+    Any Armor + 3 Perfect Diamonds  = Adds 5% Defense    (+3  Levels)
+
+ 
+    
+ 11) Body Armor & Perfect Gems
+------------------------------
+    Any Torso Armor + Perfect Topaz       = Adds 20 Magic Find                (+10  Levels)
+    Any Torso Armor + Perfect Ruby        = Adds 35 Life                      (+18  Levels)
+    Any Torso Armor + Perfect Saphire     = Adds 20 Mana                      (+15  Levels)
+    Any Torso Armor + Perfect Emerald     = Adds 5  Dexterity                 (+10  Levels)
+    Any Torso Armor + Perfect Skull       = Adds +1 HP Regen & +5% Mana Regen (+5   Levels)
+    Any Torso Armor + Perfect Amethyst    = Adds 5 Strength                   (+10  Levels)
+
+
+ 12) Gloves/Belts/Boots/Helms & Perfect Gems
+--------------------------------------------
+    Any Belt/Boot/Glove/Helm + Perfect Topaz       = Adds 3% Magic Find                 (+3   Levels)
+    Any Belt/Boot/Glove/Helm + Perfect Ruby        = Adds 5 Life                        (+5   Levels)
+    Any Belt/Boot/Glove/Helm + Perfect Saphire     = Adds 4 Mana                        (+5   Levels)
+    Any Belt/Boot/Glove/Helm + Perfect Emerald     = Adds 5  Dexterity                  (+10  Levels)
+    Any Belt/Boot/Glove/Helm + Perfect Skull       = Adds +1 HP Regen & +5% Mana Regen  (+9   Levels)
+    Any Belt/Boot/Glove/Helm + Perfect Amethyst    = Adds 5 Strength                    (+10  Levels)
+
+
+ 13) Shields & Perfect Gems
+---------------------------
+    Any Shield + Perfect Topaz       = Adds 12% Lightning Resistance     (+7   Levels)
+    Any Shield + Perfect Ruby        = Adds 12% Fire Resistance          (+7   Levels)
+    Any Shield + Perfect Saphire     = Adds 12% Cold Resistance          (+7   Levels)
+    Any Shield + Perfect Emerald     = Adds 12% Poison Resistance        (+7   Levels)
+    Any Shield + Perfect Skull       = Attacker Takes 20 Damage & Adds   (+9   Levels)
+    Any Shield + Perfect Amethyst    = 5% to Increased Chance to Block   (+12  Levels)
+    Any Shield + 2 Perfect Diamonds  = Adds 10% to All Resistances       (+15  Levels)
+
+
+ 14) Amulets & Perfect Gems
+----------------------------
+    Any Amulet + 6 Perfect Topazs       = +1 Assassin Levels     (+30  Levels)
+    Any Amulet + 6 Perfect Rubys        = +1 Barbarian Levels    (+30  Levels)
+    Any Amulet + 6 Perfect Saphires     = +1 Sorceress Levels    (+30  Levels)
+    Any Amulet + 6 Perfect Emeralds     = +1 Druid Levels        (+30  Levels)
+    Any Amulet + 6 Perfect Skulls       = +1 Necromancer Levels  (+30  Levels)
+    Any Amulet + 6 Perfect Amethysts    = +1 Amazon Levels       (+30  Levels)
+    Any Amulet + 6 Perfect Diamonds     = +1 Paladin Levels      (+30  Levels)
+
+
+ 15) Rings & Perfect Gems
+--------------------------
+    Any Ring + Perfect Topazs       = +3% Magic Find            (+7  Levels)
+    Any Ring + Perfect Rubys        = +5 Life                   (+5  Levels)
+    Any Ring + Perfect Saphires     = +5 Mana                   (+5  Levels)
+    Any Ring + Perfect Emeralds     = +5 Dexterity              (+8  Levels)
+    Any Ring + Perfect Skulls       = Attacker Takes 4 Damage   (+2  Levels)
+    Any Ring + Perfect Amethysts    = +5 Strength               (+8  Levels)
+    Any Ring + Perfect Diamonds     = +3% All Resistances       (+9  Levels)
+
+
+ 16a) Lowers Level Requirements to Equip Items Aquired from other cubing formulas or enhanced Runewords.
+--------------------------------------------------------------------------------------------------------
+    Any Weapon/Armor Type/Shield/Ring/Amulet + 3 Magic Jewels + Zod Rune = -10 to Levels Requirements to Equip.**
+
+  ** It will NOT reduce an item Level Requirement Below its Base Value (Ie: Frostburn is minimum lvl 29). This formula is 
+ really only good for removing added levels from other Cubing Formulas or Runewords with levels higher then normally allowed
+ by thier highest rune level.
+
+
+
+ 16b) Replenish Ethereal Item Durability
+-----------------------------------------
+    Any Ethereal Item + 2 Unique Jewels + Pul Rune = Full Restore of Durability
+
+
+
+ 16c) Forces Item Ethereal
+---------------------------
+    Any Weapon/Armor Type/Shield  + 2 Unique Jewels + Ohm Rune = Forces Normal Ethereal Item (May be Superior)
+
+
+
+ 17) Weapons & Runes
+---------------------
+    Any Weapon + 3 Magic Jewels + El Rune     = +1 Light Radius          (+1   Levels)
+    Any Weapon + 3 Magic Jewels + Eld Rune    = 100% dmg to Undead       (+12  Levels)
+    Any Weapon + 3 Magic Jewels + Tir Rune    = +1 Mana per Kill         (+8   Levels)
+    Any Weapon + 3 Magic Jewels + Nef Rune    = Adds +1 Knockback        (+15  Levels)
+    Any Weapon + 3 Magic Jewels + Eth Rune    = -5% Targets Defense      (+9   Levels)
+    Any Weapon + 3 Magic Jewels + Ith Rune    = +3 Maximum Damage        (+1   Levels)
+    Any Weapon + Ral + Ort + Tal + Thul       = 10 - 50 Elemental Dmg    (+20  Levels)
+    Any Weapon + 3 Magic Jewels + Amn Rune    = +2% Life Leech           (+10  Levels)
+    Any Weapon + 3 Magic Jewels + Sol Rune    = +1 Minimum Damage        (+1   Levels)
+    Any Weapon + 2 Ith + 2 Sol Runes          = Adds 1 - 3 Normal Dmg    (+1   Levels)
+    Any Weapon + Magic Jewel + 2 Shael Runes  = +10% IAS                 (+15  Levels)
+    Any Weapon + 3 Magic Jewel + Dol Runes    = %11 causes Monster Flee  (+7   Levels)
+    Any Weapon + 3 Magic Jewel + Hel Runes    = -3% to Requirements      (+1   Levels)
+    Any Weapon + Io + Ko + Lum + Fal Runes    = +5 All Attributes        (+8   Levels)
+    Any Weapon + 3 Magic Jewel + Lem Runes    = %10 Extra Gold           (+4   Levels)
+    Any Weapon + Magic Jewel + 3 Lem Runes    = -4% Vendor Costs         (+16  Levels)
+    Any Weapon + 3 Magic Jewel + Pul Runes    = 100% dmg to Demons       (+12  Levels)
+    Any Weapon + 3 Magic Jewel + Um  Runes    = +%15 Open Wounds         (+5   Levels)
+    Any Weapon + 3 Magic Jewel + Mal Runes    = Prevents Monster Heal    (+25  Levels)
+    Any Weapon + 3 Magic Jewel + Ist Runes    = +30 Magic Find           (+18  Levels)
+    Any Weapon + 3 Magic Jewel + Gul Runes    = +20% Attack Rating       (+12  Levels)
+    Any Weapon + 3 Magic Jewel + Vex Runes    = +2% Manaleech            (+10  Levels)
+    Any Weapon + 2 Amn + 2 Vex Runes          = +2% Duel-Leech           (+12  Levels)
+    Any Weapon + 3 Magic Jewel + Ohm Runes    = +2.5% Damage/lvl         (+35  Levels)
+    Any Weapon + 3 Magic Jewel + Lo  Runes    = +1% Deadly Strike/lvl    (+25  Levels)
+    Any Weapon + 3 Magic Jewels + Sur Rune    = Hit Blinds Target +2     (+19  Levels)
+    Any Weapon + 3 Magic Jewel + Ber Runes    = +.75% Crushing Blow/lvl  (+35  Levels)
+    Any Weapon + 3 Magic Jewel + Jah Runes    = Ignore Targets Ac        (+25  Levels)
+    Any Weapon + 3 Magic Jewel + Cham Runes   = Freeze Target (2s)       (+18  Levels)
+
+
+
+ 18) All Armor Types & Runes
+----------------------------
+    Any Armor Types  + 3 Magic Jewels + El Rune    = +1 Light Radius              (+1   Levels)
+    Any Armor Types  + 3 Magic Jewel + Hel Rune    = -3% to Requirements          (+1   Levels)
+    Any Armor Types  + Magic Jewel + 3 Lem Runes   = -4% Vendor Costs             (+16  Levels)
+    Any Armor Types  + 3 Magic Jewel + Pul Rune    = +20% Enhanced Defense        (+7   Levels)
+    AnY Armor Types  + 3 Magic Jewels + Um Rune    = +1% Added Experience         (+8   Levels)
+    Any Armor Types  + 3 Magic Jewels + Gul Rune   = 5% Resist Poison Maximum     (+8   Levels)
+    Any Armor Types  + 3 Magic Jewels + Vex Rune   = 5% Resist Fire Maximum       (+8   Levels)
+    Any Armor Types  + 3 Magic Jewels + Ohm Rune   = 5% Resist Cold Maximum       (+8   Levels)
+    Any Armor Types  + 3 Magic Jewels + Lo Rune    = 5% Resist Lightning Maximum  (+8   Levels)
+    Any Armor Types  + Gul + Vex + Ohm + Lo Runes   = +5% Resist All Maximum       (+24  Levels)
+    Any Armor Types  + 3 Magic Jewel  + Ber Rune   = 5% Damage Reduced            (+20  Levels)
+    Any Armor Types  + 3 Magic Jewel  + Cham Rune  = Nofreze                      (+20  Levels)
+
+
+
+
+ 19) Any Body Armor (Torso) & Runes
+------------------------------------
+    Any Torso Armor  + 3 Magic Jewels + Eld Rune    = 15% Slower Stamina Drain (+9   Levels)
+    Any Torso Armor  + 3 Magic Jewels + Tir Rune    = +1 Mana Per Kill         (+7   Levels)
+    Any Torso Armor  + 3 Magic Jewels + Nef Rune    = +25 defense              (+5   Levels)
+    Any Torso Armor  + 3 Magic Jewels + Eth Rune    = +5% Regenerate Mana      (+3   Levels)
+    Any Torso Armor  + 3 Magic Jewels + Ith Rune    = +5% Damage-To-Mana       (+2   Levels)
+    Any Torso Armor  + Ral + Ort + Tal + Thul       = +15% All Resistances     (+15  Levels) 
+    Any Torso Armor  + 3 Magic Jewels + Amn Rune    = attacker takes dmg 14    (+6   Levels)
+    Any Torso Armor  + 3 Magic Jewels + Sol Rune    = Reduces Damage by 2      (+2   Levels)
+    Any Torso Armor  + 3 Magic Jewel + Shael Rune   = +10% Faster Hit Recovery (+10  Levels)
+    Any Torso Armor  + 3 Magic Jewel + Dol Rune     = +3 Regenerate Life       (+5   Levels)
+    Any Torso Armor  + Io + Ko + Lum + Fal Rune     = +5 All Attributes        (+8   Levels)
+    Any Torso Armor  + 3 Magic Jewel + Lem Rune     = %10 Extra Gold           (+4   Levels)
+    Any Torso Armor  + 3 Magic Jewels + Mal Rune    = Reduces mag Damage by 2  (+2   Levels)
+    Any Torso Armor  + 3 Magic Jewel + Ist Rune     = +30 Magic Find           (+15  Levels)
+    Any Torso Armor  + 3 Magic Jewel + Sur Rune     = +5% maximum Mana         (+10  Levels)
+    Any Torso Armor  + 3 Magic Jewel + Jah Runes    = +5% maximum life         (+10  Levels)
+
+
+
+ 20) Any Belts/Boots/Gloves/Helms & Runes
+------------------------------------------
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Eld Rune    = +8% Slower Stamina Drain (+9   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Tir Rune    = +1 Mana Per Kill         (+8   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Nef Rune    = +8 Defense               (+3   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Eth Rune    = +5% Regenerate Mana      (+4   Levels)
+    Any      Belts & Boots       + 3 Magic Jewels + Ith Rune    = +3% Damage-To-Mana       (+2   Levels)
+    Any Belts/Boots/Gloves/Helms + Ral + Ort + Tal + Thul       = +10% All Resistances     (+20  Levels) 
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Amn Rune    = attacker takes dmg 10    (+7   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Sol Rune    = Reduces Damage by 1      (+2   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewel + Shael Runes  = +5% Faster Hit Recovery  (+10  Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewel + Dol Runes    = +1 Regenerate Life       (+7   Levels)
+    Any Belts/Boots/Gloves/Helms + Io + Ko + Lum + Fal Runes    = +5 All Attributes        (+12  Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewel + Lem Runes    = %8 Extra Gold            (+6   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewels + Mal Rune    = Reduces Mag Damage by 1  (+2   Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewel + Ist Runes    = +15 Magic Find           (+15  Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewel + Sur Runes    = +4% maximum mana         (+12  Levels)
+    Any Belts/Boots/Gloves/Helms + 3 Magic Jewel + Jah Runes    = +4% maximum life         (+12  Levels)
+ 
+
+
+ 21) Shields & Runes
+---------------------
+    Any Shield  + 3 Magic Jewels + El Rune     = +1 Light Radius                (+1   Levels)
+    Any Shield  + 3 Magic Jewels + Eld Rune    = +5% Increased chance to Block  (+7   Levels)
+    Any Shield  + 3 Magic Jewels + Tir Rune    = +1 Mana Per Kill               (+5   Levels)
+    Any Shield  + 3 Magic Jewels + Nef Rune    = +20 Defense                    (+6   Levels)
+    Any Shield  + 3 Magic Jewels + Eth Rune    = 10% Mana Regenaration          (+6   Levels)
+    Any Shield  + Tal + Ral + Ort + Thul       = +30% All Resistances           (+20  Levels)
+    Any Shield  + 3 Magic Jewels + Amn Rune    = Attacker Takes 20 damage       (+5   Levels)
+    Any Shield  + 3 Magic Jewels + Sol Rune    = Reduce Damage by 10            (+6   Levels)
+    Any Shield  + 3 Magic Jewels + Shael Rune  = +10% Faster Block Rate         (+10  Levels)
+    Any Shield  + 3 Magic Jewels + Dol Rune    = +7 Regen Life                  (+10  Levels)
+    Any Shield  + 3 Magic Jewels + Hel Rune    = -3% Requirements               (+1   Levels)
+    Any Shield  + Io + Ko + Lum + Fal  Rune    = +5 All Attributes              (+10  Levels)
+    Any Shield  + 3 Magic Jewel + Lem Runes    = +10% Extra Gold                (+5   Levels)
+    Any Shield  + Magic Jewel + 3 Lem Runes    = -4% Vendor Costs               (+16  Levels)
+    Any Shield  + 3 Magic Jewel + Pul Runes    = 20% Increased Defense          (+7   Levels)
+    Any Shield  + 3 Magic Jewels + Um Rune     = +%1 Added Experience           (+8   Levels)
+    Any Shield  + 3 Magic Jewels + Mal Rune    = Reduce Magic Damage by 10      (+6   Levels)
+    Any Shield  + 3 Magic Jewel + Ist Runes    = +25 Magic Find                 (+20  Levels)
+    Any Shield  + 3 Magic Jewel + Gul Runes    = 5% Resist Poison Maximum       (+8   Levels)
+    Any Shield  + 3 Magic Jewel + Vex Runes    = 5% Resist Fire Maximum         (+8   Levels)
+    Any Shield  + 3 Magic Jewel + Ohm Runes    = 5% Resist Cold Maximum         (+8   Levels)
+    Any Shield  + 3 Magic Jewel + Lo  Runes    = 5% Resist Lightning Maximum    (+8   Levels)
+    Any Shield  + Gul + Vex + Ohm + Lo         = 5% All Resistance Maximum      (+25  Levels)
+    Any Shield  + 3 Magic Jewel + Sur Runes    = 50 Mana                        (+13  Levels)
+    Any Shield  + 3 magic Jewel + Ber Runes    = 8% Damage Reduced              (+18  Levels)
+    Any Shield  + 3 Magic Jewel + Jah Runes    = 50 Life                        (+11  Levels)
+    Any Shield  + 3 Magic Jewel + Cham Runes   = No Freeze                      (+20  Levels)
+ 
+
+  22) Crafted Charms (at 100% Character Level) - All Gain From 3 - 5 Additional Random Effects
+-----------------------------------------------------------------------------------------------
+Level
+-----
+ 30     Grand Magic Charm + Unique Jewel + El + 3 Io  Runes    = 20 - 40 Life
+ 33     Grand Magic Charm + Unique Jewel + El + 3 Lum Runes    = 20 - 40 Mana
+ 36     Grand Magic Charm + Unique Jewel + El + 3 Ko  Runes    = 10 - 15 Dexterity
+ 39     Grand Magic Charm + Unique Jewel + El + 3 Fal Runes    = 10 - 15 Strength
+ 42     Grand Magic Charm + 2 Unique Jewels + El + 2 Pul Runes = 50 Defense & 3 - 10 Normal Damage
+ 45     Grand Magic Charm + 2 Unique Jewels + El + 2 Um Rune s = 15% - 20% All Resistances
+ 50     Grand Magic Charm + 2 Unique Jewels + El + 2 Ist Runes = 20% - 35% Magic Find
+ 55     Grand Magic Charm + 2 Unique Jewels + El + 2 Ohm Runes = 5% - 12% Increased Experience Gained
+ 60     Grand Magic Charm + 3 Unique Jewels + El + Zod Rune    = +1 All Skills
+
+
+
+  23) Crafted Amulets (at 100% Character Level) - All Gain From 3 - 5 Additional Random Effects
+------------------------------------------------------------------------------------------------
+Level
+-----
+ 10   Magic Amulet  + 2 Magic Jewels  + El Rune        = 20 - 30 Life , Heal 4-6 Life per Kill , 10% - 15% All Resistance
+ 25   Magic Amulet  + 2 Magic Jewels  + Amn Rune       = 12 Charges Level 9 Static , 7% Chance to Cast lvl 4 Static when Hit
+ 35   Rare Amulet   + 2 Rare Jewels   + Lum Rune       = +12% - 20% Added Experience.
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Barbarian Levels ,   +2 Masteries Skill Tree      (Bar)
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Sorceress Levels ,   +2 Lightning Skill Tree      (Sor)
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Amazon Levels ,      +2 Passives/Magic Skill Tree (Ama)
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Necromancer Levels , +2 Summoning Skill Tree      (Nec)
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Paladin Levels ,     +2 Combat Skill Tree         (Pal)
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Druid Levels ,       +2 Shapeshifting Skill Tree  (Dru)
+ 49   Unique Amulet + 4 Unique Jewels + Mal Rune       = +1 Assassin Levels ,    +2 Shadow Disciplines Tree   (Ass)
+ 70   Unique Amulet + 3 Unique Jewels + Ohm + Jah Rune = +2 All Skills , 35% - 50% Magic Find , & 1-3% Added Experience.
+
+
+
+  24) Crafted Rings (at 100% Character Level) - All Gain From 3 - 5 Additional Random Effects
+----------------------------------------------------------------------------------------------
+Level
+-----
+ 32   Unique Ring + 3 Unique Jewels + Um  Rune  = 10 - 15% All Resistances
+ 37   Unique Ring + 3 Unique Jewels + Mal Rune  = 3 - 5% Increased Experience
+ 41   Unique Ring + 3 Unique Jewels + Ist Rune  = 20 - 25% Magic Find
+ 45   Unique Ring + 3 Unique Jewels + Gul Rune  = 10 - 15% Attack Rating
+ 49   Unique Ring + 3 Unique Jewels + Vex Rune  = 6% Duel Leech Ring
+ 53   Unique Ring + 3 Unique Jewels + Ohm Rune  = 40% - 60% Enhanced Damage
+ 57   Unique Ring + 3 Unique Jewels + Lo  Rune  = 15% Increased Attack Speed
+ 61   Unique Ring + 3 Unique Jewels + Sur Rune  = 15 - 20% Increased Maximum Life
+ 65   Unique Ring + 3 Unique Jewels + Ber Rune  = 7 - 10% Damage Reduced
+ 69   Unique Ring + 3 Unique Jewels + Jah Rune  = 15 - 20% Increased Maximum Mana
+ 73   Unique Ring + 3 Unique Jewels + Cham Rune = 10 - 15% Absorb Fire , Lightning & Cold Damage
+
+
+
+  25) Crafted Weapons (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+----------------------------------------------------------------------------------------------
+Level
+-----
+ 13   Rare Weapon + Magic Jewel + Chipped Diamond                  = 
+        +40% - 70% Enhanced Damage
+ 20   Rare Weapon + Magic Jewel + Regular Diamond + Ith Rune       = 
+        +60% - 80% Enhanced Damage , +5 - 15 Normal Damage
+ 31   Rare Weapon + 2 Magic Jewels + Flawless Diamond + Shael Rune = 
+        +60% - 80% Enhanced Damage , +5 - 15 Normal Damage ,20% Increased Attack Speed 
+ 44   Rare Weapon + 2 Rare Jewels + Shael + Fal Rune               =
+        +80% - 100% Enhanced Damage , +20% Increased Attack Speed , +1 All Skills
+ 57   Rare Weapon + 2 Rare Jewels + Amn + Vex Runes                =
+        +100% - 140% Enhanced Damage , +6% - 8% Duel-Leech , +1 All Skills
+ 65   Rare Weapon + 2 Unique Jewels + ohm + Sur Runes              =
+        +150% - 175% Enhanced Damage , +1 All Skills , +30% Increased Attack Speed , 30% Magic Find
+ 78   Rare Weapon + 2 Unique Jewels + Ber + Cham + Zod Runes       =
+        +200% - 300% Enhanced Damage , +2 All Skills , +40% Increased Attack Speed , 75% Magic Find
+
+
+
+  26) Crafted Torso Armor (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+-------------------------------------------------------------------------------------------------
+Level
+-----
+ 12   Rare Torso Armor + Magic Jewel + Chipped Ruby         =
+        30% - 40% Enhanced Defense , +20-30 Life
+ 19   Rare Torso Armor + Magic Jewel + Regular Ruby         =
+        40% - 50% Enhanced Defense , +20-30 Life , 10% - 15% All Resistances
+ 30   Rare Torso Armor + Rare Jewel + Ral Rune + Thul Rune  =
+        50% - 60% Enhanced Defense , 20% Faster Hit Recovery , +1% - 2% Increased Experience
+ 43   Rare Torso Armor + Rare Jewel + Fal Rune + Dol Rune   =  
+        65% - 80% Enhanced Defense , 15% IAS , 15% Faster Run/Walk
+ 57   Rare Torso Armor + Unique Jewel + Pul Rune + Ist Rune =  
+        80% - 100% Enhanced Defense , 50% - 75% Magic Find , 15% Faster Cast Rate
+ 69   Rare Torso Armor + Unique Jewel + Gul Rune + Lo Rune  =       
+        100% - 125% Enhanced Defense , +1 All Skills , +10 All Attributes
+ 80   Rare Torso Armor + Unique Jewel + Sur Rune + Jah Rune =       
+        125% - 150% Enhanced Defense , +2 All Skills , +10 Regenerate Life , +75% - 100% Faster Mana Regeneration
+
+
+
+  27) Crafted Gloves (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+---------------------------------------------------------------------------------------------
+Level
+-----
+ 10   Rare Gloves + Magic Jewel + Chipped Amethyst          =
+        10% Ias , 10% Faster Cast Rate
+ 20   Rare Gloves + Magic Jewel + Regular Amethyst          =
+        20 - 30 Life , 20 - 30 Mana
+ 30   Rare Gloves + Rare Jewel + Ith Rune + Hel Rune        = 
+        20% IAS , +5 - 10 Strength , +5 - 10 Dexterity
+ 51   Rare Gloves + Unique Jewel + Lem Rune + Ist Rune      = 
+        75% - 100% Extra Gold , 40 - 50% Magic Find , 75% - 100% Enhanced Defense
+ 70   Rare Gloves + 2 Unique Jewels + Ber Rune + Jah Rune   = 
+        +1 All Skills , 75% - 100% Enhanced Defense , 25% Ias , 20% Faster Cast Rate , Crushing Blow by Level (25% Chance)
+
+
+
+  28) Crafted Belts (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+---------------------------------------------------------------------------------------------
+Level
+-----
+ 10   Rare Belt + Magic Jewel + Chipped Emerald             =
+        +20 - 30 Life , Damage Reduced by 6 - 10
+ 20   Rare Belt + Magic Jewel + Regular Emerald             =
+        40% - 50% Defense , Heals 3 - 5 Life per Kill
+ 30   Rare Belt + Rare Jewel + Ral Rune + Io Rune           = 
+        Regenerate Life +3 - 6 , Regenerates Mana +40% - 60%
+ 51   Rare Belt + Unique Jewel + Lum Rune + Ohm Rune        = 
+        Reduces Poison Length by 50% - 75% , 5% - 10% Damage Reduced
+ 70   Rare Belt + 2 Unique Jewels + Ist Rune + Cham  Rune   = 
+        +1 All Skills , 2 - 3 Added Experience , Reduces Vendor Prices by 3% - 5%
+
+
+  29) Crafted Boots (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+---------------------------------------------------------------------------------------------
+Level
+-----
+ 10   Rare Boots + Magic Jewel + Chipped Saphire            =
+        +20 - 30 Mana , 10% Faster Run/Walk
+ 20   Rare Boots + Magic Jewel + Regular Saphire            =
+        25% - 50% Enhanced Defense , 10 - 15 Dexterity
+ 30   Rare Boots + Rare Jewel + Eth Rune + Sol Rune         = 
+        20% Faster Hit Recovery , 30% Faster Run/Walk
+ 51   Rare Boots + Unique Jewel + Ko Rune + Um Rune         = 
+        +5 - 10 Kick Damage , +35% - 50% Enhanced Damage
+ 70   Rare Boots + 2 Unique Jewels + Lo Rune + Ber Rune     = 
+        +1 All Skills , 75% - 100% Enhanced Defense , 30% Faster Run/Walk
+
+
+  30) Crafted Helms (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+---------------------------------------------------------------------------------------------
+Level
+-----
+ 10   Rare Helms/Circlets + Magic Jewel + Chipped Topaz             =
+        +1 - 3 Mana per Kill , 35% - 50% Faster Mana Regeneration
+ 20   Rare Helms/Circlets + Magic Jewel + Regular Topaz             =
+        50% - 60% Enhanced Defense , +1 All Skills
+ 30   Rare Helms/Circlets + Rare Jewel + Tal Rune + Amn Rune        = 
+        15% Faster Cast Rate , 20% Faster Hit Recovery
+ 51   Rare Helms/Circlets + Unique Jewel + Lum Rune + Mal Rune      = 
+        +1 All Skills , 70% - 80% Enhanced Defense , +10 - 20 Energy
+ 70   Rare Helms/Circlets + 2 Unique Jewels + Ohm Rune + Cham Rune  = 
+        +2 All Skills , 10% Damage to Mana , 15% Faster Block Rate , +5 - 8 Life per Kill
+
+
+  31) Crafted Shields (at 100% Character Level) - All Gain from 3-5 Additional Random Effects
+---------------------------------------------------------------------------------------------
+Level
+-----
+ 10   Rare Shields + Magic Jewel + Chipped Skull            =
+        Attacker Takes Damage of 6 - 10 , +8% - 15% Increased chance to Block
+ 20   Rare Shields + Magic Jewel + Regular Skull            =
+        20% Faster Hit Recovery , 20% Faster Block Rate
+ 30   Rare Shields + Rare Jewel + Thul Rune + Dol Rune      = 
+       50% - 75% Enhanced Defense , 5% Life Leech , 10% - 15% Increased Chance to Block
+ 51   Rare Shields + Unique Jewel + Hel Rune + Pul Rune     = 
+       65% - 90% Enhanced Defense , 30% Faster Block Rate , 20% - 30% All Resistances 
+ 70   Rare Shields + 2 Unique Jewels + Vex Rune + Sur Rune  = 
+       +2 All Skills , 2 - 3 Sockets , 30% Increased Chance to Block , 25% - 50% Enhanced Damage
+
+
+ 32) Crafted Arrows/Bolts (at 100% Character Level) - Doesn't Gain any extra Mods unless enabled.
+-------------------------------------------------------------------------------------------------
+Level
+-----
+ 25  Arrows/Bolts + Rare Jewel + Thul Rune = 100% Chance to Cast Level 6 Static Field on Striking , Prevents Monster Heal
+ 30  Arrows/Bolts + Rare Jewel + Sol Rune  = 100% Chance to Cast Level 13 Frost Nova  on Striking , Prevents Monster Heal
+ 35  Arrows/Bolts + Rare Jewel + Dol Rune  = 100% Chance to Cast Level 1 Amplify Damage on Striking , Prevents Monster Heal
+ 40  Arrows/Bolts + Rare Jewel + Io Rune   = 100% Chance to Cast Level 3 Corpse Explosion on Striking, Prevents Monster Heal
+ 45  Arrows/Bolts + Rare Jewel + Ko Rune   = 100% Chance to Cast Level 9 Decrepify on Striking , Prevents Monster Heal
+ 50  Arrows/Bolts + Rare Jewel + Lem Rune  = 100% Chance to Cast Level 9 Lower Resist on Striking , Prevents Monster Heal

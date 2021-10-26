@@ -1,0 +1,56 @@
+1) Global Changes
+Increased the maximum skill level cap to for all skills to 30.
+
+1) Amazon
+
+1. All skills now do Normal Damage (removed the 3/4 weapon damage penalty).
+2. Guided Arrow now Pierces and recieves Synergy Bonuses from Magic Arrow.
+3. Fend , Jab , and Impale now receives Synergy Bonuses from each other.
+4. Strafe receives Synergy Bonuses from Multiple Shot and Guided Arrow.
+
+2) Sorceress
+
+1. Frozen Orb receives Synergy Bonuses from Ice Bolt , Ice Blast , and Glacial Spike.
+2. Nova receives Synergy Bonuses from Static Field and Telekinesis.
+3. Charged Bolt receives Synergy Bonuses from Nova , Lightning , and Chain Lightning.
+4. Thunder Storm receives Synergy Bonuses from Lightning.
+5. Blaze receives additional Synergy Bonuses from Inferno.
+6. Firewall Receives additional Synergy Bonuses from Inferno and Blaze.
+7. Enchant recieves Synergy Bonuses from Warmth and Inferno.
+8. Hydra has improved Synergy Bonuses from Fire Bolt and Fire Ball.
+
+3) Necromancer
+
+1. All curses now gain additional radius per skill level.
+2. Raise Skeleton grants 1 skeleton per skill level.
+3. Raise Skeleton Mage grants 1 skeleton mage per skill level.
+4. Teeth now has improved damage.
+5. Bone Spear now does 24 - 48 damage at level 1. Additional minor improvement per skill level.
+6. Bone Spirit now does 40 - 60 damage at level 1. Moderately improved damage per skill level.
+7. Can now summon each golem at the same time
+
+4) Paladin
+
+1. Salvation receives Synergy Bonuses from Prayer.
+2. Concentration gives 100% chance of attack not being interrupted.
+3. Conversion has increased duration per skill point.
+
+5) Barbarian
+
+1. Shout starts with a 1 minute duration at skill level 1.
+2. Battle Orders starts with a 1 minute duration at skill level 1.
+3. Battle Command starts with a 1 minute duration at skill level 1.
+4. Whirlwind receives Synergy Bonuses from Concentrate. Removed Whirlwind Overlay.
+
+6) Druid
+
+1. Can now summon 5 spirit Wolves , 3 Dire Wolves , and a Grizzly Bear at the same time.
+2. Raven has greatly improved damage as skill levels increase.
+3. All spells can be cast in Werewolf or Werebear Form.
+
+7) Assassin
+
+1. All traps fire 10 times before expiring.
+2. Claw Mastery now recieves +6% Enhanced Damage per skill level.
+3. Blade Sentinel , Blade Fury , and Blade Shield all give Synergy Bonuses to each other.
+4. Lightning Sentry receives extra shots from Shock Field Synergy Bonus.

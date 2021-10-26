@@ -1,0 +1,23 @@
+1) Global Changes :
+Increased all Hireling starting levels by 10.Thus , Normal Act 1 Rogues can be hired up to Level 13 , exc.
+Increased Hit Points gained per Level and Defense gained per Level by 50%
+2) Act 1 Hireling.
+General - Inner Sight (starts with) , Quickness (starts with).
+Cold - Cold Arrow (starts with) , Ice Arrow (level 35) , Freezing Arrow (level 65).
+Fire - Fire Arrow (starts with) , Exploding Arrow (level 35) , Immolation Arrow (level 65).
+
+3) Act 2 Hireling.
+General - Jab (starts with) , Charged Strike (level 42) , Lightning Strike (level 71).
+Combat - Prayer (normal) , Holy Freeze (nightmare) , Fanaticism (hell).
+Defensive - Defiance (normal) , Cleansing (nightmare) , Salvation (hell).
+Offinsive - Blessed Aim (normal) , Might (nightmare) , Conviction (hell).
+
+4) Act 3 Hireling.
+Cold - Frozen Armor (starts with) , Frost Nova (starts with) , Glacial Spike (starts with) , Blizzard (level 50) , Frozen Orb (level 50) , Cold Mastery (level 77).
+Fire - Fire Bolt (starts with) , Fireball (starts with) , Firewall (starts with) , Meteor (level 50) , Hydra (level 50) , Fire Mastery (level 77).
+Lightning - Charged Bolt (starts with) , Static Field (starts with) , Lightning (starts with) , Nova (level 50) , Chain Lightning (level 50) , Lightning Mastery (level 77).
+
+Act 5 Hireling.
+General - Bash (starts with) , Stun (starts with) , Battle Fury** (starts with) , Battle Cry (lvl 61) , War Cry (lvl 84)
+
+**New hireling only Warcry that boosts melee/ranged damage of your character
