@@ -7,7 +7,7 @@
     "deDE": "Hier ist ein Handel mit diesem Gegenstand nicht möglich.",
     "esES": "Aquí no se puede comerciar con este objeto",
     "frFR": "Les objets ne peuvent pas être vendus ici.",
-    "itIT": "Non si possono scambiare oggetti qui.",
+    "itIT": "Questo oggetto non si può scambiare qui.",
     "koKR": "여기서는 아이템을 거래할 수 없습니다.",
     "plPL": "Tego przedmiotu nie można tutaj sprzedać.",
     "esMX": "Este objeto no puede negociarse aquí.",
@@ -172,19 +172,19 @@
   {
     "id": 3462,
     "Key": "ItemStats1i",
-    "enUS": "Quantity: %d",
-    "zhTW": "數量：%d",
-    "deDE": "Anzahl: %d",
-    "esES": "Cantidad: %d",
-    "frFR": "Quantité : %d",
-    "itIT": "Quantità: %d",
-    "koKR": "수량: %d",
-    "plPL": "Liczba: %d",
-    "esMX": "Cantidad: %d",
-    "jaJP": "数量: %d",
-    "ptBR": "Quantidade: %d",
-    "ruRU": "Количество: %d шт.",
-    "zhCN": "数量: %d"
+    "enUS": "Quantity: %d of %d",
+    "zhTW": "數量：%d / %d",
+    "deDE": "Anzahl: %d von %d",
+    "esES": "Cantidad: %d de %d",
+    "frFR": "Quantité : %d sur %d",
+    "itIT": "Quantità: %d di %d",
+    "koKR": "수량: %d/%d",
+    "plPL": "Liczba: %d z %d",
+    "esMX": "Cantidad: %d de %d",
+    "jaJP": "数量: %d/%d",
+    "ptBR": "Quantidade: %d de %d",
+    "ruRU": "Количество: %d из %d",
+    "zhCN": "数量: %d/%d"
   },
   {
     "id": 3463,
@@ -864,7 +864,7 @@
     "jaJP": "秒間持続",
     "ptBR": "Duração em segundos",
     "ruRU": "сек. времени действия",
-    "zhCN": "秒,持续时间"
+    "zhCN": "秒持续时间"
   },
   {
     "id": 3505,
@@ -1413,19 +1413,19 @@
   {
     "id": 3537,
     "Key": "ModStr3m",
-    "enUS": "%d%% Chance of Open Wounds",
-    "zhTW": "%d%% 機率造成開放傷口",
-    "deDE": "%d%% Chance auf offene Wunden",
-    "esES": "%d%% de probabilidad de sangrado",
-    "frFR": "%d%% de chances de blessures ouvertes",
-    "itIT": "Probabilità di aprire una ferita aumentata del %d%%",
-    "koKR": "상처 악화 확률 %d%%",
-    "plPL": "%d%% szansy na otwarcie rany",
-    "esMX": "%d%% de probabilidad de abrir heridas",
-    "jaJP": "出血状態を付与（%d%%の確率）",
-    "ptBR": "%d%% de chance de Feridas Abertas",
-    "ruRU": "Вероятность %d%% нанести открытую рану",
-    "zhCN": "%d%% 几率造成开创性伤口"
+    "enUS": "%+d%% Chance of Open Wounds",
+    "zhTW": "%+d%% 機率造成開放傷口",
+    "deDE": "%+d%% Chance auf offene Wunden",
+    "esES": "%+d%% de probabilidad de sangrado",
+    "frFR": "%+d%% de chances de blessures ouvertes",
+    "itIT": "Probabilità di aprire una ferita %+d%%",
+    "koKR": "상처 악화 확률 %+d%%",
+    "plPL": "%+d%% do szansy na otwarcie rany",
+    "esMX": "%+d%% de probabilidad de abrir heridas",
+    "jaJP": "出血状態を付与（%+d%%）",
+    "ptBR": "%+d%% de chance de Feridas Abertas",
+    "ruRU": "%+d%% к вероятности нанести открытую рану",
+    "zhCN": "%+d%% 几率造成开创性伤口"
   },
   {
     "id": 3538,
@@ -1532,19 +1532,19 @@
   {
     "id": 3545,
     "Key": "ModStr3w",
-    "enUS": "%d%% Damage Taken Goes To Mana",
-    "zhTW": "轉化 %d%% 受損的生命為法力",
-    "deDE": "%d%% erlittenen Schadens geht auf Mana",
-    "esES": "Un %d%% del daño sufrido se recupera como maná",
-    "frFR": "%d%% des dégâts subis sont soustraits au mana",
-    "itIT": "Il %d%% dei danni subiti è sul mana",
-    "koKR": "받는 피해의 %d%%만큼 마나 회복",
-    "plPL": "%d%% otrzymanych obrażeń przechodzi na manę",
-    "esMX": "Transforma un %d%% del daño recibido en maná",
-    "jaJP": "受けたダメージの%d%%をマナに変換",
-    "ptBR": "%d%% do dano recebido transforma-se em mana",
-    "ruRU": "%d%% урона приходится на ману",
-    "zhCN": "%d%% 受到的伤害转换为法力"
+    "enUS": "%+d%% Damage Taken Goes To Mana",
+    "zhTW": "%+d%% 受到的傷害轉為法力",
+    "deDE": "%+d%% erlittenen Schadens geht auf Mana",
+    "esES": "Un %+d%% del daño sufrido se recupera como maná",
+    "frFR": "%+d%% des dégâts subis sont soustraits au mana",
+    "itIT": "Il %+d%% dei danni subiti è sul mana",
+    "koKR": "받는 피해의 %+d%%만큼 마나 회복",
+    "plPL": "%+d%% otrzymanych obrażeń przechodzi na manę",
+    "esMX": "%+d%% del daño recibido se transforma en maná",
+    "jaJP": "受けたダメージの%+d%%をマナに変換",
+    "ptBR": "%+d%% do dano recebido transforma-se em mana",
+    "ruRU": "%+d%% к урону, приходящемуся на ману",
+    "zhCN": "%+d%% 受到的伤害转换为法力"
   },
   {
     "id": 3546,
@@ -2059,19 +2059,19 @@
   {
     "id": 3577,
     "Key": "ModStr5c",
-    "enUS": "%d%% Chance of Crushing Blow",
-    "zhTW": "%d%% 機率造成粉碎打擊",
-    "deDE": "%d%% Chance auf vernichtenden Schlag",
-    "esES": "%d%% de probabilidad de ataque aplastante",
-    "frFR": "%d%% de chances de coups écrasants",
-    "itIT": "Probabilità di colpo frantumante aumentata del %d%%",
-    "koKR": "강타 확률 %d%%",
-    "plPL": "%d%% szansy na druzgocące uderzenie",
-    "esMX": "%d%% de probabilidad de golpe aplastante",
-    "jaJP": "クラッシング・ブロー（%d%%の確率）",
-    "ptBR": "%d%% de chance de Golpe Esmagador",
-    "ruRU": "Вероятность %d%% нанести сокрушительный удар",
-    "zhCN": "%d%% 几率粉碎打击"
+    "enUS": "%+d%% Chance of Crushing Blow",
+    "zhTW": "%+d%% 機率造成粉碎打擊",
+    "deDE": "%+d%% Chance auf vernichtenden Schlag",
+    "esES": "%+d%% de probabilidad de ataque aplastante",
+    "frFR": "%+d%% de chances de coup écrasant",
+    "itIT": "Probabilità di colpo frantumante %+d%%",
+    "koKR": "강타 확률 %+d%%",
+    "plPL": "%+d%% do szansy na druzgocące uderzenie",
+    "esMX": "%+d%% de probabilidad de golpe aplastante",
+    "jaJP": "クラッシング・ブロー（%+d%%）",
+    "ptBR": "%+d%% de chance de Golpe Esmagador",
+    "ruRU": "%+d%% к вероятности нанести сокрушительный удар",
+    "zhCN": "%+d%% 几率粉碎打击"
   },
   {
     "id": 3579,
@@ -2110,19 +2110,19 @@
   {
     "id": 3581,
     "Key": "ModStr5g",
-    "enUS": "Fire Absorb %d%%",
-    "zhTW": "火焰吸收 %d%%",
-    "deDE": "Feuerabsorption %d%%",
-    "esES": "%d%% de absorción de fuego",
-    "frFR": "Absorption du Feu : %d%%",
-    "itIT": "Assorbimento del fuoco aumentato del %d%%",
-    "koKR": "화염 흡수 %d%%",
-    "plPL": "%d%% absorpcji ognia",
-    "esMX": "%d%% de absorción de fuego",
-    "jaJP": "火炎吸収（%d%%）",
-    "ptBR": "Absorve fogo em %d%%",
-    "ruRU": "Поглощает %d%% урона от огня",
-    "zhCN": "火焰吸收 %d%%"
+    "enUS": "Fire Absorb %+d%%",
+    "zhTW": "火焰吸收 %+d%%",
+    "deDE": "Feuerabsorption %+d%%",
+    "esES": "%+d%% de absorción de fuego",
+    "frFR": "Absorption du Feu : %+d%%",
+    "itIT": "Assorbimento del fuoco %+d%%",
+    "koKR": "화염 흡수 %+d%%",
+    "plPL": "%+d%% do absorpcji ognia",
+    "esMX": "%+d%% de absorción de fuego",
+    "jaJP": "火炎吸収（%+d%%）",
+    "ptBR": "%+d%% de Absorve Fogo",
+    "ruRU": "%+d%% к поглощению урона от огня",
+    "zhCN": "火焰伤害吸收 %+d%%"
   },
   {
     "id": 3582,
@@ -2144,19 +2144,19 @@
   {
     "id": 3583,
     "Key": "ModStr5i",
-    "enUS": "Lightning Absorb %d%%",
-    "zhTW": "電擊吸收 %d%%",
-    "deDE": "Blitzabsorption %d%%",
-    "esES": "%d%% de absorción de rayos",
-    "frFR": "Absorption de la Foudre : %d%%",
-    "itIT": "Assorbimento del fulmine aumentato del %d%%",
-    "koKR": "번개 흡수 %d%%",
-    "plPL": "%d%% absorpcji błyskawic",
-    "esMX": "%d%% de absorción de rayo",
-    "jaJP": "電撃吸収（%d%%）",
-    "ptBR": "Absorve eletricidade em %d%%",
-    "ruRU": "Поглощает %d%% урона от молнии",
-    "zhCN": "闪电吸收 %d%%"
+    "enUS": "Lightning Absorb %+d%%",
+    "zhTW": "電擊吸收 %+d%%",
+    "deDE": "Blitzabsorption %+d%%",
+    "esES": "%+d%% de absorción de rayos",
+    "frFR": "Absorption de la Foudre : %+d%%",
+    "itIT": "Assorbimento del fulmine %+d%%",
+    "koKR": "번개 흡수 %+d%%",
+    "plPL": "%+d%% do absorpcji błyskawic",
+    "esMX": "%+d%% de absorción de rayo",
+    "jaJP": "電撃吸収（%+d%%）",
+    "ptBR": "%+d%% de Absorve Eletricidade",
+    "ruRU": "%+d%% к поглощению урона от молнии",
+    "zhCN": "闪电伤害吸收 %+d%%"
   },
   {
     "id": 3584,
@@ -2178,19 +2178,19 @@
   {
     "id": 3585,
     "Key": "ModStr5k",
-    "enUS": "Magic Absorb %d%%",
-    "zhTW": "魔法吸收 %d%%",
-    "deDE": "Magieabsorption %d%%",
-    "esES": "%d%% de absorción de magia",
-    "frFR": "Absorption de la Magie : %d%%",
-    "itIT": "Assorbimento della magia aumentato del %d%%",
-    "koKR": "마법 흡수 %d%%",
-    "plPL": "%d%% absorpcji magii",
-    "esMX": "%d%% de absorción de magia",
-    "jaJP": "魔法吸収（%d%%）",
-    "ptBR": "Absorve magia em %d%%",
-    "ruRU": "Поглощает %d%% магического урона",
-    "zhCN": "魔法伤害吸收 %d%%"
+    "enUS": "Magic Absorb %+d%%",
+    "zhTW": "魔法吸收 %+d%%",
+    "deDE": "Magieabsorption %+d%%",
+    "esES": "%+d%% de absorción de magia",
+    "frFR": "Absorption de la Magie : %+d%%",
+    "itIT": "Assorbimento della magia %+d%%",
+    "koKR": "마법 흡수 %+d%%",
+    "plPL": "%+d%% do absorpcji magii",
+    "esMX": "%+d%% de absorción de magia",
+    "jaJP": "魔法吸収（%+d%%）",
+    "ptBR": "%+d%% de Absorve Magia",
+    "ruRU": "%+d%% к поглощению магического урона",
+    "zhCN": "魔法伤害吸收 %+d%%"
   },
   {
     "id": 3586,
@@ -2212,19 +2212,19 @@
   {
     "id": 3587,
     "Key": "ModStr5m",
-    "enUS": "Cold Absorb %d%%",
-    "zhTW": "冰寒吸收 %d%%",
-    "deDE": "Kälteabsorption %d%%",
-    "esES": "%d%% de absorción de frío",
-    "frFR": "Absorption du Froid : %d%%",
-    "itIT": "Assorbimento del freddo aumentato del %d%%",
-    "koKR": "냉기 흡수 %d%%",
-    "plPL": "%d%% absorpcji zimna",
-    "esMX": "%d%% de absorción de frío",
-    "jaJP": "冷気吸収（%d%%）",
-    "ptBR": "Absorve gelo em %d%%",
-    "ruRU": "Поглощает %d%% урона от льда",
-    "zhCN": "冰霜伤害吸收 %d%%"
+    "enUS": "Cold Absorb %+d%%",
+    "zhTW": "冰寒吸收 %+d%%",
+    "deDE": "Kälteabsorption %+d%%",
+    "esES": "%+d%% de absorción de frío",
+    "frFR": "Absorption du Froid : %+d%%",
+    "itIT": "Assorbimento del freddo %+d%%",
+    "koKR": "냉기 흡수 %+d%%",
+    "plPL": "%+d%% do absorpcji zimna",
+    "esMX": "%+d%% de absorción de frío",
+    "jaJP": "冷気吸収（%+d%%）",
+    "ptBR": "%+d%% de Absorve Gelo",
+    "ruRU": "%+d%% к поглощению урона от льда",
+    "zhCN": "冰霜伤害吸收 %+d%%"
   },
   {
     "id": 3588,
@@ -2280,19 +2280,19 @@
   {
     "id": 3591,
     "Key": "ModStr5q",
-    "enUS": "%d%% Deadly Strike",
-    "zhTW": "%d%% 致命打擊",
-    "deDE": "%d%% Todesschlag",
-    "esES": "%d%% de azote mortal",
-    "frFR": "%d%% de coups mortels",
-    "itIT": "Probabilità di colpo mortale aumentata del %d%%",
-    "koKR": "치명적 공격 %d%%",
-    "plPL": "%d%% szansy na zabójcze uderzenie",
-    "esMX": "%d%% de golpe letal",
-    "jaJP": "デッドリー・ストライク（%d%%）",
-    "ptBR": "%d%% de Golpe Mortal",
-    "ruRU": "Вероятность %d%% нанести смертельный удар",
-    "zhCN": "%d%% 致死打击"
+    "enUS": "%+d%% Deadly Strike",
+    "zhTW": "%+d%% 致命打擊",
+    "deDE": "%+d%% Todesschlag",
+    "esES": "%+d%% de azote mortal",
+    "frFR": "%+d%% de chances de coup mortel",
+    "itIT": "Probabilità di colpo mortale %+d%%",
+    "koKR": "치명적 공격 %+d%%",
+    "plPL": "%+d%% do szansy na zabójcze uderzenie",
+    "esMX": "%+d%% de golpe letal",
+    "jaJP": "デッドリー・ストライク（%+d%%）",
+    "ptBR": "%+d%% de Golpe Mortal",
+    "ruRU": "%+d%% к вероятности нанести смертельный удар",
+    "zhCN": "%+d%% 致死打击"
   },
   {
     "id": 3593,
@@ -2484,19 +2484,19 @@
   {
     "id": 3607,
     "Key": "ModStr6g",
-    "enUS": "Piercing Attack",
-    "zhTW": "穿刺攻擊",
-    "deDE": "Durchbohrender Angriff",
-    "esES": "Ataque perforador",
-    "frFR": "Attaque perforante",
-    "itIT": "Trapassa il bersaglio",
-    "koKR": "관통 공격",
-    "plPL": "Przeszywający atak",
-    "esMX": "Ataque perforante",
-    "jaJP": "貫通攻撃",
-    "ptBR": "Ataque perfurante",
-    "ruRU": "Пронзающая атака",
-    "zhCN": "穿刺攻击"
+    "enUS": "%+d%% Piercing Attack",
+    "zhTW": "%+d%% 穿透攻擊",
+    "deDE": "%+d%% durchbohrender Angriff",
+    "esES": "%+d%% de ataque perforador",
+    "frFR": "%+d%% de chances d’attaque perforante",
+    "itIT": "Probabilità di trapassare il bersaglio %+d%%",
+    "koKR": "관통 공격 %+d%%",
+    "plPL": "%+d%% do szansy na przeszywający atak",
+    "esMX": "%+d%% de ataque perforante",
+    "jaJP": "貫通攻撃（%+d%%）",
+    "ptBR": "%+d%% de Ataque Perfurante",
+    "ruRU": "%+d%% к пробивающей атаке",
+    "zhCN": "%+d%% 穿刺攻击"
   },
   {
     "id": 3608,
@@ -3193,7 +3193,7 @@
     "jaJP": "毒ダメージ付与（合計%d - %dダメージを%d秒間で与える）",
     "ptBR": "Adiciona %d-%d de dano venenoso ao longo de %d segundos",
     "ruRU": "+%d–%d урона от яда за %d сек.",
-    "zhCN": "+ %d-%d 毒药伤害，持续%d秒"
+    "zhCN": "+ %d-%d 毒素伤害，持续%d秒"
   },
   {
     "id": 10036,
@@ -3851,7 +3851,7 @@
     "frFR": "Aura de niveau %d pour %s quand équipé",
     "itIT": "Fornisce a livello %d aura di %s",
     "koKR": "장착 시 %d 레벨 %s 오라 효과 적용",
-    "plPL": "Po wyposażeniu zapewnia aurę (%1) na poziomie %0",
+    "plPL": "Po wyposażeniu zapewnia aurę %1 na poziomie %0",
     "esMX": "Aura de %1 de nivel %0 al equiparse",
     "jaJP": "装備時にオーラ〈%1〉（レベル%0）を発動",
     "ptBR": "Aura %1 de nível %0 quando equipado",
@@ -4269,19 +4269,19 @@
   {
     "id": 11034,
     "Key": "ModStr3u",
-    "enUS": "Hit Causes Monster to Flee %d%%",
-    "zhTW": "擊中有 %d%% 機率使怪物逃跑",
-    "deDE": "Treffer schlägt Monster in die Flucht %d%%",
-    "esES": "%d%% de probabilidad de que los monstruos huyan al golpearlos",
-    "frFR": "Le monstre touché s’enfuit à %d%%",
-    "itIT": "Probabilità di far fuggire il bersaglio aumentata del %d%%",
-    "koKR": "적중 시 괴물 도주 %d%%",
-    "plPL": "%d%% szansy na zmuszenie potwora do ucieczki",
-    "esMX": "%d%% monstruo huye al ser golpeado",
-    "jaJP": "攻撃命中でモンスターが逃げ出す（%d%%の確率）",
-    "ptBR": "Acerto causa fuga do monstro %d%%",
-    "ruRU": "Вероятность %d%% обратить монстра в бегство при ударе",
-    "zhCN": "%d%% 几率命中使怪物逃跑"
+    "enUS": "Hit Causes Monster to Flee %+d%%",
+    "zhTW": "%+d%% 機率擊中使怪物逃跑",
+    "deDE": "Treffer schlägt Monster in die Flucht %+d%%",
+    "esES": "%+d%% de probabilidad de que los monstruos huyan al golpearlos",
+    "frFR": "Le monstre touché s’enfuit à %+d%%",
+    "itIT": "Probabilità di far fuggire il bersaglio %+d%%",
+    "koKR": "적중 시 괴물 도주 %+d%%",
+    "plPL": "%+d%% szansy na zmuszenie potwora do ucieczki",
+    "esMX": "%+d%% de que monstruo huya al ser golpeado",
+    "jaJP": "攻撃命中でモンスターが逃げ出す（%+d%%）",
+    "ptBR": "Acerto causa fuga do monstro %+d%%",
+    "ruRU": "%+d%% к вероятности обратить монстра в бегство при ударе",
+    "zhCN": "%+d%% 几率命中使怪物逃跑"
   },
   {
     "id": 11035,
@@ -5080,7 +5080,7 @@
     "jaJP": "耐久力が回復（%d秒ごとに%d）",
     "ptBR": "Repara %d de durabilidade em %d segundos",
     "ruRU": "Восполняет %d ед. прочности раз в %d сек.",
-    "zhCN": "在%1秒内修复%0点耐久度"
+    "zhCN": "每 %1 秒修复 %0 点耐久度"
   },
   {
     "id": 21243,
@@ -5536,7 +5536,7 @@
     "koKR": "무형 (수리 불가)",
     "plPL": "Przedmiot eteryczny (nie może być naprawiony)",
     "esMX": "Etéreo (no puede repararse)",
-    "jaJP": "エセリアル（修理不可能）",
+    "jaJP": "イシリアル（修理不可能）",
     "ptBR": "Etéreo (não pode ser reparado)",
     "ruRU": "Бесплотный предмет (нельзя ремонтировать)",
     "zhCN": "无形的 (无法修复)"
@@ -5568,7 +5568,7 @@
     "frFR": "Dégâts réduits de %d%%",
     "itIT": "Danni ridotti del %d%%",
     "koKR": "피해 %d%% 감소",
-    "plPL": "Zmniejsza otrzymywane obrażenia o %d%%",
+    "plPL": "Zmniejsza obrażenia o %d%%",
     "esMX": "Reduce un %d%% el daño",
     "jaJP": "ダメージを軽減（%d%%）",
     "ptBR": "Dano reduzido em %d%%",
@@ -5581,7 +5581,7 @@
     "enUS": "%+d to %s %s",
     "zhTW": "%+d 至%s %s",
     "deDE": "%+d zu %s %s",
-    "esES": "%0 a %2 (%1)",
+    "esES": "%+d a %s (%s)",
     "frFR": "%+d à %s %s",
     "itIT": "%+d a %s %s",
     "koKR": "%+d %s %s",
@@ -5621,7 +5621,7 @@
     "koKR": "무형 (수리 불가), 홈 있음 (%i)",
     "plPL": "Przedmiot eteryczny (nie może być naprawiony), gniazda (%i)",
     "esMX": "Etéreo (no puede repararse), Engarzado (%i)",
-    "jaJP": "エセリアル（修理不可能）、ソケット（%i）",
+    "jaJP": "イシリアル（修理不可能）、ソケット（%i）",
     "ptBR": "Etéreo (não pode ser reparado), com engastes (%i)",
     "ruRU": "Бесплотный предмет (нельзя ремонтировать), с гнездами (%i)",
     "zhCN": "无形的 (无法修复), 镶孔 (%i)"
@@ -5687,7 +5687,7 @@
     "frFR": "Personnalisé",
     "itIT": "Personalizzato",
     "koKR": "이름 새겨짐",
-    "plPL": "Personalizacja",
+    "plPL": "[fs]Personalizowana[ms]Personalizowany[nl]Personalizowane",
     "esMX": "Personalizado",
     "jaJP": "一点物の",
     "ptBR": "Personalizado",
@@ -5695,7 +5695,24 @@
     "zhCN": "个性化"
   },
   {
-    "id": 27077,
+    "id": 27212,
+    "Key": "ModStr6j",
+    "enUS": "%+d%% Chance to not consume Quantity",
+    "zhTW": "%+d%% 機率不消耗數量",
+    "deDE": "%+d%% Chance, keinen Stapel zu verbrauchen",
+    "esES": "%+d%% de probabilidad de no consumir cantidad",
+    "frFR": "%+d%% de chances de ne pas consommer de quantité",
+    "itIT": "Probabilità di non consumare quantità %+d%%",
+    "koKR": "%+d%% 확률로 수량을 소모하지 않음",
+    "plPL": "%+d%% szansy na niepochłonięcie zasobów",
+    "esMX": "%+d%% de probabilidad de no consumir cantidad",
+    "jaJP": "%+d%%の確立でアイテム消費をしない",
+    "ptBR": "%+d%% de chance de não consumir quantidade",
+    "ruRU": "%+d%% к шансу не израсходовать снаряды",
+    "zhCN": "%+d%% 几率不消耗数量"
+  },
+  {
+    "id": 30077,
     "Key": "playstr",
     "enUS": "(based on character strength)",
     "zhTW": "",
@@ -5712,7 +5729,7 @@
     "zhCN": ""
   },
   {
-    "id": 27078,
+    "id": 30078,
     "Key": "playdex",
     "enUS": "(based on character dexterity)",
     "zhTW": "",
@@ -5729,7 +5746,7 @@
     "zhCN": ""
   },
   {
-    "id": 27079,
+    "id": 30079,
     "Key": "playvit",
     "enUS": "(based on character vitality)",
     "zhTW": "",
@@ -5746,7 +5763,7 @@
     "zhCN": ""
   },
   {
-    "id": 27080,
+    "id": 30080,
     "Key": "playenr",
     "enUS": "(based on character energy)",
     "zhTW": "",
@@ -5763,7 +5780,7 @@
     "zhCN": ""
   },
   {
-    "id": 27081,
+    "id": 30081,
     "Key": "ModStrcoldskill",
     "enUS": "to Cold Skills",
     "zhTW": "",
@@ -5780,7 +5797,7 @@
     "zhCN": ""
   },
   {
-    "id": 27082,
+    "id": 30082,
     "Key": "ModStrlightningskill",
     "enUS": "to Lightning Skills",
     "zhTW": "",
@@ -5797,7 +5814,7 @@
     "zhCN": ""
   },
   {
-    "id": 27083,
+    "id": 30083,
     "Key": "ModStrpoisonskill",
     "enUS": "to Poison Skills",
     "zhTW": "",
@@ -5814,7 +5831,7 @@
     "zhCN": ""
   },
   {
-    "id": 27084,
+    "id": 30084,
     "Key": "ModStrmagicskill",
     "enUS": "to Magic Skills",
     "zhTW": "",
@@ -5831,7 +5848,7 @@
     "zhCN": ""
   },
   {
-    "id": 27085,
+    "id": 30085,
     "Key": "ModStrfear",
     "enUS": "Chance Attacker will Flee in Fear",
     "zhTW": "",
@@ -5848,7 +5865,7 @@
     "zhCN": ""
   },
   {
-    "id": 27086,
+    "id": 30086,
     "Key": "ModStrblinded",
     "enUS": "Chance Attacker will be Blinded",
     "zhTW": "",
@@ -5865,7 +5882,7 @@
     "zhCN": ""
   },
   {
-    "id": 27087,
+    "id": 30087,
     "Key": "ModStrfirethorns",
     "enUS": "Attacker takes Fire Damage of",
     "zhTW": "",
@@ -5882,7 +5899,7 @@
     "zhCN": ""
   },
   {
-    "id": 27088,
+    "id": 30088,
     "Key": "ModStrcoldthorns",
     "enUS": "Attacker Takes Cold Damage of",
     "zhTW": "",
@@ -5899,7 +5916,7 @@
     "zhCN": ""
   },
   {
-    "id": 27089,
+    "id": 30089,
     "Key": "ModResMaxAllZero",
     "enUS": "Sets all Resistances to 0",
     "zhTW": "",
@@ -5916,7 +5933,7 @@
     "zhCN": ""
   },
   {
-    "id": 27090,
+    "id": 30090,
     "Key": "ModStrcurseresist",
     "enUS": "Reduces Curse Length by",
     "zhTW": "",
@@ -5933,7 +5950,7 @@
     "zhCN": ""
   },
   {
-    "id": 27091,
+    "id": 30091,
     "Key": "playmana",
     "enUS": "(Based on Mana)",
     "zhTW": "",
@@ -5950,7 +5967,7 @@
     "zhCN": ""
   },
   {
-    "id": 27092,
+    "id": 30092,
     "Key": "ModStr1a1",
     "enUS": "Increases Strength by",
     "zhTW": "",
@@ -5967,7 +5984,7 @@
     "zhCN": ""
   },
   {
-    "id": 27093,
+    "id": 30093,
     "Key": "ModStr1d1",
     "enUS": "Increases Dexterity by",
     "zhTW": "",
@@ -5984,7 +6001,7 @@
     "zhCN": ""
   },
   {
-    "id": 27094,
+    "id": 30094,
     "Key": "ModStr1b1",
     "enUS": "Increases Vitality by",
     "zhTW": "",
@@ -6001,7 +6018,7 @@
     "zhCN": ""
   },
   {
-    "id": 27095,
+    "id": 30095,
     "Key": "ModStr1c1",
     "enUS": "Increases Energy by",
     "zhTW": "",
@@ -6018,7 +6035,7 @@
     "zhCN": ""
   },
   {
-    "id": 27096,
+    "id": 30096,
     "Key": "ModStrnh",
     "enUS": "Decreased Maximum Life by",
     "zhTW": "",
@@ -6035,7 +6052,7 @@
     "zhCN": ""
   },
   {
-    "id": 27097,
+    "id": 30097,
     "Key": "ModStr3ddd",
     "enUS": "Increased Chance to Block",
     "zhTW": "",
@@ -6052,7 +6069,7 @@
     "zhCN": ""
   },
   {
-    "id": 27098,
+    "id": 30098,
     "Key": "ModStrFreeze1",
     "enUS": "Freezes Target for",
     "zhTW": "",
@@ -6069,7 +6086,7 @@
     "zhCN": ""
   },
   {
-    "id": 27099,
+    "id": 30099,
     "Key": "ModStrFreeze1a",
     "enUS": "Seconds (based on character level)",
     "zhTW": "",
@@ -6086,7 +6103,7 @@
     "zhCN": ""
   },
   {
-    "id": 27100,
+    "id": 30100,
     "Key": "ModStrFreeze2",
     "enUS": "Freezes Target for",
     "zhTW": "",
@@ -6103,7 +6120,7 @@
     "zhCN": ""
   },
   {
-    "id": 27101,
+    "id": 30101,
     "Key": "ModStrFreeze2a",
     "enUS": "Seconds (based on character energy)",
     "zhTW": "",
@@ -6120,7 +6137,7 @@
     "zhCN": ""
   },
   {
-    "id": 27102,
+    "id": 30102,
     "Key": "ModStrFreeze3",
     "enUS": "Freezes Target for",
     "zhTW": "",
@@ -6137,7 +6154,7 @@
     "zhCN": ""
   },
   {
-    "id": 27103,
+    "id": 30103,
     "Key": "ModStrFreeze3a",
     "enUS": "Seconds",
     "zhTW": "",
@@ -6154,7 +6171,7 @@
     "zhCN": ""
   },
   {
-    "id": 27104,
+    "id": 30104,
     "Key": "ModStr2iaa",
     "enUS": "Maximum Durability Decreased by",
     "zhTW": "",
@@ -6171,7 +6188,7 @@
     "zhCN": ""
   },
   {
-    "id": 27105,
+    "id": 30105,
     "Key": "strModAllResistances",
     "enUS": "All Resistances %d%",
     "zhTW": "",
@@ -6188,7 +6205,7 @@
     "zhCN": ""
   },
   {
-    "id": 27106,
+    "id": 30106,
     "Key": "ModStrAllMaxRes",
     "enUS": "Increases All Maximum Cap Resistances by +%d%",
     "zhTW": "",
@@ -6205,7 +6222,7 @@
     "zhCN": ""
   },
   {
-    "id": 27107,
+    "id": 30107,
     "Key": "ModStrAllMaxResN",
     "enUS": "Reduces All Maximum Resistance Caps by %d%",
     "zhTW": "",
@@ -6222,7 +6239,7 @@
     "zhCN": ""
   },
   {
-    "id": 27108,
+    "id": 30108,
     "Key": "StrModAttrP",
     "enUS": "All Attributes Increased by %d%",
     "zhTW": "",
@@ -6239,7 +6256,7 @@
     "zhCN": ""
   },
   {
-    "id": 27109,
+    "id": 30109,
     "Key": "StrModAttrN",
     "enUS": "All Attributes Decreased by %d%",
     "zhTW": "",
@@ -6256,7 +6273,7 @@
     "zhCN": ""
   },
   {
-    "id": 27110,
+    "id": 30110,
     "Key": "ModStr1a11",
     "enUS": "Reduces Strength by",
     "zhTW": "",
@@ -6273,7 +6290,7 @@
     "zhCN": ""
   },
   {
-    "id": 27111,
+    "id": 30111,
     "Key": "ModStr1b11",
     "enUS": "Reduces Vitality by",
     "zhTW": "",
@@ -6290,7 +6307,7 @@
     "zhCN": ""
   },
   {
-    "id": 27112,
+    "id": 30112,
     "Key": "ModStr1c11",
     "enUS": "Reduces Energy by",
     "zhTW": "",
@@ -6307,7 +6324,7 @@
     "zhCN": ""
   },
   {
-    "id": 27113,
+    "id": 30113,
     "Key": "ModStr1d11",
     "enUS": "Reduces Dexterity by",
     "zhTW": "",
@@ -6324,7 +6341,7 @@
     "zhCN": ""
   },
   {
-    "id": 27114,
+    "id": 30114,
     "Key": "ModStr6eee",
     "enUS": "(Curse) Increased Stamina Drain by %d%",
     "zhTW": "",
@@ -6341,7 +6358,7 @@
     "zhCN": ""
   },
   {
-    "id": 27115,
+    "id": 30115,
     "Key": "ModStr6e",
     "enUS": "Stamina Drain Reduced by %d%",
     "zhTW": "",
@@ -6358,7 +6375,7 @@
     "zhCN": ""
   },
   {
-    "id": 27116,
+    "id": 30116,
     "Key": "ModStr4mn",
     "enUS": "Reduced Attack Speed",
     "zhTW": "",
@@ -6375,7 +6392,7 @@
     "zhCN": ""
   },
   {
-    "id": 27117,
+    "id": 30117,
     "Key": "ModStr4sn",
     "enUS": "Slower Run/Walk",
     "zhTW": "",
@@ -6392,7 +6409,7 @@
     "zhCN": ""
   },
   {
-    "id": 27118,
+    "id": 30118,
     "Key": "ModStr4pn",
     "enUS": "Slower Hit Recovery",
     "zhTW": "",
@@ -6409,7 +6426,7 @@
     "zhCN": ""
   },
   {
-    "id": 27119,
+    "id": 30119,
     "Key": "ModStr4yn",
     "enUS": "Slower Block Rate",
     "zhTW": "",
@@ -6426,7 +6443,7 @@
     "zhCN": ""
   },
   {
-    "id": 27120,
+    "id": 30120,
     "Key": "ModStr4vn",
     "enUS": "Slower Casting Rate",
     "zhTW": "",
@@ -6443,7 +6460,7 @@
     "zhCN": ""
   },
   {
-    "id": 27121,
+    "id": 30121,
     "Key": "ModitemRedVendPN",
     "enUS": "Increased All Vendor Prices (Curse)",
     "zhTW": "",
@@ -6460,7 +6477,7 @@
     "zhCN": ""
   },
   {
-    "id": 27122,
+    "id": 30122,
     "Key": "ModStrcurseresistN",
     "enUS": "(Curse) length of time your cursed is increased by",
     "zhTW": "",
@@ -6477,7 +6494,7 @@
     "zhCN": ""
   },
   {
-    "id": 27123,
+    "id": 30123,
     "Key": "ModStr3rrr",
     "enUS": "(Curse) length of time your poisoned is increased by",
     "zhTW": "",
@@ -6494,7 +6511,7 @@
     "zhCN": ""
   },
   {
-    "id": 27124,
+    "id": 30124,
     "Key": "ModStr2uuu",
     "enUS": "(Curse) Physical Damage taken increased by",
     "zhTW": "",

@@ -2002,7 +2002,7 @@
     "esMX": "de penetración",
     "jaJP": "貫通の",
     "ptBR": "da Furação",
-    "ruRU": "пронзания",
+    "ruRU": "пробивания",
     "zhCN": "刺穿之"
   },
   {
@@ -3719,7 +3719,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "闇の",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -3900,7 +3900,7 @@
     "deDE": "Abscheu -",
     "esES": "[fs]de reticencia[ms]de reticencia[fp]de reticencia[mp]de reticencia",
     "frFR": "de répugnance",
-    "itIT": "Abominevole",
+    "itIT": "dell'Avversione",
     "koKR": "지긋지긋한",
     "plPL": "[fs]Niechętna[ms]Niechętny[nl]Niechętne",
     "esMX": "[ms]despreciado[fs]despreciada[mp]despreciados[fp]despreciadas",
@@ -4824,7 +4824,7 @@
     "esMX": "[ms]Dardo",
     "jaJP": "滑翔",
     "ptBR": "[ms]Dardo",
-    "ruRU": "[ms]дротик",
+    "ruRU": "[ms]кинжал",
     "zhCN": "飞镖"
   },
   {
@@ -4892,7 +4892,7 @@
     "esMX": "[ms]Vuelo",
     "jaJP": "飛翔",
     "ptBR": "[ms]Voo",
-    "ruRU": "[ms]лёт",
+    "ruRU": "[ms]полет",
     "zhCN": "飞箭"
   },
   {
@@ -5385,7 +5385,7 @@
     "esMX": "[ms]insólito[fs]insólita[mp]insólitos[fp]insólitas",
     "jaJP": "不可思議な",
     "ptBR": "[ms]Bizarro[mp]Bizarros[fs]Bizarra[fp]Bizarras",
-    "ruRU": "[ms]непонятный[fs]непонятная[ns]непонятное[pl]непонятные",
+    "ruRU": "[ms]потусторонний[fs]потусторонняя[ns]потустороннее[pl]потусторонние",
     "zhCN": "诡异"
   },
   {
@@ -5470,7 +5470,7 @@
     "esMX": "[ms]sombrío[fs]sombría[mp]sombríos[fp]sombrías",
     "jaJP": "シャドウ",
     "ptBR": "[ms]Sombrio[mp]Sombrios[fs]Sombria[fp]Sombrias",
-    "ruRU": "[ms]тенистый[fs]тенистая[ns]тенистое[pl]тенистые",
+    "ruRU": "[ms]теневой[fs]теневая[ns]теневое[pl]теневые",
     "zhCN": "暗影"
   },
   {
@@ -5821,7 +5821,7 @@
     "deDE": "Stink -",
     "esES": "de la putrefacción",
     "frFR": "[ms]faisandé[fs]faisandée[mp]faisandés[fp]faisandées",
-    "itIT": "della Putrefazione",
+    "itIT": "del Marciume",
     "koKR": "부패의",
     "plPL": "[fs]Zgniła[ms]Zgniły[nl]Zgniłe",
     "esMX": "[ms]podrido[fs]podrida[mp]podridos[fp]podridas",
@@ -6361,7 +6361,7 @@
     "id": 2759,
     "Key": "grin",
     "enUS": "Grin",
-    "zhTW": "獰笑",
+    "zhTW": "獰笑者",
     "deDE": "[ms]Grinser",
     "esES": "[fs]Mueca",
     "frFR": "[ms]Rictus",
@@ -7215,7 +7215,7 @@
     "deDE": "[fs]Pustel",
     "esES": "[fs]Epidemia",
     "frFR": "[fs]La vérole",
-    "itIT": "Morbo",
+    "itIT": "Peste",
     "koKR": "천연두",
     "plPL": "[fs]Ospa",
     "esMX": "[fs]Viruela",
@@ -7279,7 +7279,7 @@
     "id": 2813,
     "Key": "SlimeUM",
     "enUS": "Slime",
-    "zhTW": "黏液",
+    "zhTW": "黏毒",
     "deDE": "[ms]Schleim",
     "esES": "[fs]Babosa",
     "frFR": "[fs]Gelée",
@@ -7500,7 +7500,7 @@
     "id": 2826,
     "Key": "the Axe",
     "enUS": "the Axe",
-    "zhTW": "「銳斧」",
+    "zhTW": "「銳斧使徒」",
     "deDE": "die Axt",
     "esES": "\"el Hacha\"",
     "frFR": "La Hache",
@@ -7606,7 +7606,7 @@
     "deDE": "der Jäger",
     "esES": "\"el Cazador\"",
     "frFR": "Le Chasseur",
-    "itIT": "il Segugio",
+    "itIT": "l'Instancabile",
     "koKR": "사냥꾼",
     "plPL": "Łowca",
     "esMX": "el Cazador",
@@ -7619,7 +7619,7 @@
     "id": 2833,
     "Key": "the Slayer",
     "enUS": "the Slayer",
-    "zhTW": "「屠殺者」",
+    "zhTW": "「屠殺使徒」",
     "deDE": "der Schlitzer",
     "esES": "\"el Exterminador\"",
     "frFR": "Le Boucher",
@@ -7844,7 +7844,7 @@
     "deDE": "der Besudelte",
     "esES": "\"el Mancillado\"",
     "frFR": "Le Corrompu",
-    "itIT": "l'Ammorbante",
+    "itIT": "l'Infettante",
     "koKR": "오염된 자",
     "plPL": "Pomiot",
     "esMX": "el Corrompido",
@@ -7878,7 +7878,7 @@
     "deDE": "der Hungrige",
     "esES": "\"el Hambriento\"",
     "frFR": "L’Affamé",
-    "itIT": "l'Ingurgitante",
+    "itIT": "l'Insaziabile",
     "koKR": "굶주린 자",
     "plPL": "Żarłok",
     "esMX": "el Hambriento",
@@ -7916,7 +7916,7 @@
     "koKR": "용사",
     "plPL": "Czempion –",
     "esMX": "[ms]campeador[fs]campeadora[mp]campeadores[fp]campeadoras",
-    "jaJP": "キング",
+    "jaJP": "凶悪なる",
     "ptBR": "[ms]Campeão[mp]Campeões[fs]Campeã[fp]Campeãs",
     "ruRU": "элита",
     "zhCN": "[勇士]"
@@ -8018,7 +8018,7 @@
     "koKR": "광신자",
     "plPL": "Fanatyk –",
     "esMX": "[ms]fanático[fs]fanática[mp]fanáticos[fp]fanáticas",
-    "jaJP": "マッド",
+    "jaJP": "狂乱の",
     "ptBR": "[ms]Fanático[mp]Fanáticos[fs]Fanática[fp]Fanáticas",
     "ruRU": "фанатик",
     "zhCN": "[癫狂者]"
@@ -8029,13 +8029,13 @@
     "enUS": "Berserker",
     "zhTW": "狂暴",
     "deDE": "[ms]tobsüchtiger[fs]tobsüchtige[ns]tobsüchtiges[pl]tobsüchtige",
-    "esES": "[fs]de berserker[ms]de berserker[fp]de berserker[mp]de berserker",
+    "esES": "[fs]berserker[ms]berserker[fp]berserker[mp]berserker",
     "frFR": "[ms]berserker[fs]berserker[mp]berserkers[fp]berserkers",
     "itIT": "Berserker",
     "koKR": "광전사",
     "plPL": "Berserker –",
     "esMX": "[ms]vesánico[fs]vesánica[mp]vesánicos[fp]vesánicas",
-    "jaJP": "バーサーク",
+    "jaJP": "荒れ狂う",
     "ptBR": "[fs]Berserker[ms]Berserker[fp]Berserker[mp]Berserker",
     "ruRU": "берсерк",
     "zhCN": "[狂战士]"
@@ -8666,7 +8666,7 @@
     "esMX": "ojo de águila",
     "jaJP": "鷲の目もつ",
     "ptBR": "[fs]Olho Aquilino[ms]Olho Aquilino[fp]Olho Aquilino[mp]Olho Aquilino",
-    "ruRU": "[ms]снайперский[fs]снайперская[ns]снайперское[pl]снайперские",
+    "ruRU": "[ms]зоркий[fs]зоркая[ns]зоркое[pl]зоркие",
     "zhCN": "鹰目"
   },
   {
@@ -9551,7 +9551,7 @@
     "jaJP": "ゴーレム王が携えし",
     "ptBR": "[fs]Golêmica[ms]Golêmico[fp]Golêmicas[mp]Golêmicos",
     "ruRU": "[ms]големный[fs]големная[ns]големное[pl]големные",
-    "zhCN": "魔像领主的"
+    "zhCN": "傀儡领主的"
   },
   {
     "id": 20777,
@@ -9728,7 +9728,7 @@
     "Key": "Chilling",
     "enUS": "Chilling",
     "zhTW": "寒冰",
-    "deDE": "[ms]]frostiger[fs]]frostige[ns]]frostiges[pl]frostige",
+    "deDE": "[ms]frostiger[fs]frostige[ns]frostiges[pl]frostige",
     "esES": "[fs]refrescante[ms]refrescante[fp]refrescantes[mp]refrescantes",
     "frFR": "[ms]glaçant[fs]glaçante[mp]glaçants[fp]glaçantes",
     "itIT": "[ms]Gelido[fs]Gelida[mp]Gelidi[fp]Gelide",
@@ -10112,7 +10112,7 @@
     "jaJP": "機工師が携えし",
     "ptBR": "[fs]Mecânica[ms]Mecânico[fp]Mecânicas[mp]Mecânicos",
     "ruRU": "[ms]кустарный[fs]кустарная[ns]кустарное[pl]кустарные",
-    "zhCN": "技师的"
+    "zhCN": "技工的"
   },
   {
     "id": 20810,
@@ -11139,7 +11139,7 @@
     "Key": "Pernicious",
     "enUS": "Pernicious",
     "zhTW": "致命",
-    "deDE": "[ms]]bösartiger[fs]]bösartige[ns]]bösartiges[pl]bösartige",
+    "deDE": "[ms]bösartiger[fs]bösartige[ns]bösartiges[pl]bösartige",
     "esES": "[fs]perniciosa[ms]pernicioso[fp]perniciosas[mp]perniciosos",
     "frFR": "[ms]sournois[mp]sournois[fs]sournoise[fp]sournoises",
     "itIT": "[ms]Pernicioso[fs]Perniciosa[mp]Perniciosi[fp]Perniciose",
@@ -11454,7 +11454,7 @@
     "esMX": "[ms]nuboso[fs]nubosa[mp]nubosos[fp]nubosas",
     "jaJP": "曇った",
     "ptBR": "[ms]Nublado[mp]Nublados[fs]Nublada[fp]Nubladas",
-    "ruRU": "[ms]мутный[fs]мутная[ns]мутное[pl]мутные",
+    "ruRU": "[ms]облачный[fs]облачная[ns]облачное[pl]облачные",
     "zhCN": "迷云"
   },
   {
@@ -11580,7 +11580,7 @@
     "id": 20896,
     "Key": "Impecable",
     "enUS": "Impeccable",
-    "zhTW": "無暇",
+    "zhTW": "無瑕",
     "deDE": "[ms]unfehlbarer[fs]unfehlbare[ns]unfehlbares[pl]unfehlbare",
     "esES": "[fs]impecable[ms]impecable[fp]impecables[mp]impecables",
     "frFR": "[ms]immaculé[mp]immaculés[fs]immaculée[fp]immaculées",
@@ -11845,7 +11845,7 @@
     "esMX": "[ms]grosero[fs]grosera[mp]groseros[fp]groseras",
     "jaJP": "野蛮なる",
     "ptBR": "[ms]Rude[mp]Rudes[fs]Rude[fp]Rudes",
-    "ruRU": "[ms]топорный[fs]топорная[ns]топорное[pl]топорные",
+    "ruRU": "[ms]примитивный[fs]примитивная[ns]примитивное[pl]примитивные",
     "zhCN": "粗鲁"
   },
   {
@@ -12382,7 +12382,7 @@
     "zhTW": "碎冰甲之",
     "deDE": "der Zitterrüstung",
     "esES": "de Armadura gélida",
-    "frFR": "d’armure de la crainte",
+    "frFR": "d’armure du frisson",
     "itIT": "della Corazza dei Brividi",
     "koKR": "오한 갑옷의",
     "plPL": "Lodowatej Zbroi",
@@ -12967,7 +12967,7 @@
     "esMX": "de la lamprea",
     "jaJP": "ランプリィの",
     "ptBR": "da Lampreia",
-    "ruRU": "со знаком жужелицы",
+    "ruRU": "со знаком миноги",
     "zhCN": "血鳗之"
   },
   {
@@ -14344,7 +14344,7 @@
     "esMX": "de despacho",
     "jaJP": "処刑の",
     "ptBR": "do Despacho",
-    "ruRU": "отправки",
+    "ruRU": "депеши",
     "zhCN": "急发之"
   },
   {
@@ -15705,7 +15705,7 @@
     "jaJP": "ファイアゴーレムの",
     "ptBR": "do Golem de Fogo",
     "ruRU": "огненного голема",
-    "zhCN": "火焰魔像之"
+    "zhCN": "火焰傀儡之"
   },
   {
     "id": 21139,
@@ -15773,7 +15773,7 @@
     "jaJP": "アイアンゴーレムの",
     "ptBR": "do Golem de Ferro",
     "ruRU": "железного голема",
-    "zhCN": "钢铁魔像之"
+    "zhCN": "钢铁傀儡之"
   },
   {
     "id": 21143,
@@ -15841,7 +15841,7 @@
     "jaJP": "ブラッドゴーレムの",
     "ptBR": "do Golem de Sangue",
     "ruRU": "кровяного голема",
-    "zhCN": "鲜血魔像之"
+    "zhCN": "鲜血傀儡之"
   },
   {
     "id": 21147,
@@ -15994,7 +15994,7 @@
     "jaJP": "クレイゴーレムの",
     "ptBR": "do Golem de Barro",
     "ruRU": "глиняного голема",
-    "zhCN": "黏土魔像之"
+    "zhCN": "黏土傀儡之"
   },
   {
     "id": 21156,
@@ -17056,7 +17056,7 @@
     "enUS": "Berserker",
     "zhTW": "狂暴",
     "deDE": "[ms]tobsüchtiger[fs]tobsüchtige[ns]tobsüchtiges[pl]tobsüchtige",
-    "esES": "[fs]de berserker[ms]de berserker[fp]de berserker[mp]de berserker",
+    "esES": "[fs]berserker[ms]berserker[fp]berserker[mp]berserker",
     "frFR": "[ms]berserker[fs]berserker[mp]berserkers[fp]berserkers",
     "itIT": "Berserker",
     "koKR": "광전사",
@@ -17068,7 +17068,7 @@
     "zhCN": "狂战士"
   },
   {
-    "id": 28098,
+    "id": 31098,
     "Key": "Heartless1",
     "enUS": "Heartless",
     "zhTW": "",
@@ -17085,7 +17085,7 @@
     "zhCN": ""
   },
   {
-    "id": 28099,
+    "id": 31099,
     "Key": "Paradox's1",
     "enUS": "Paradox's",
     "zhTW": "",
@@ -17102,7 +17102,7 @@
     "zhCN": ""
   },
   {
-    "id": 28100,
+    "id": 31100,
     "Key": "Sharp1",
     "enUS": "Deadly Sharp",
     "zhTW": "",
@@ -17119,7 +17119,7 @@
     "zhCN": ""
   },
   {
-    "id": 28101,
+    "id": 31101,
     "Key": "Sharp2",
     "enUS": "Sharp Crushing",
     "zhTW": "",
@@ -17136,7 +17136,7 @@
     "zhCN": ""
   },
   {
-    "id": 28102,
+    "id": 31102,
     "Key": "Sharp3",
     "enUS": "Sharp Wounding",
     "zhTW": "",
@@ -17153,7 +17153,7 @@
     "zhCN": ""
   },
   {
-    "id": 28103,
+    "id": 31103,
     "Key": "Fine1",
     "enUS": "Deadly Fine",
     "zhTW": "",
@@ -17170,7 +17170,7 @@
     "zhCN": ""
   },
   {
-    "id": 28104,
+    "id": 31104,
     "Key": "Fine2",
     "enUS": "Fine Crushing",
     "zhTW": "",
@@ -17187,7 +17187,7 @@
     "zhCN": ""
   },
   {
-    "id": 28105,
+    "id": 31105,
     "Key": "Fine3",
     "enUS": "Fine Wounding",
     "zhTW": "",
@@ -17204,7 +17204,7 @@
     "zhCN": ""
   },
   {
-    "id": 28106,
+    "id": 31106,
     "Key": "Mastersmith's1",
     "enUS": "Mastersmith's",
     "zhTW": "",
@@ -17221,7 +17221,7 @@
     "zhCN": ""
   },
   {
-    "id": 28107,
+    "id": 31107,
     "Key": "Mastersmith's2",
     "enUS": "Mastersmith's Deadly",
     "zhTW": "",
@@ -17238,7 +17238,7 @@
     "zhCN": ""
   },
   {
-    "id": 28108,
+    "id": 31108,
     "Key": "Mastersmith's3",
     "enUS": "Mastersmith's Crushing",
     "zhTW": "",
@@ -17255,7 +17255,7 @@
     "zhCN": ""
   },
   {
-    "id": 28109,
+    "id": 31109,
     "Key": "Mastersmith's4",
     "enUS": "Mastersmith's Wounding",
     "zhTW": "",
@@ -17272,7 +17272,7 @@
     "zhCN": ""
   },
   {
-    "id": 28110,
+    "id": 31110,
     "Key": "Warrior's1",
     "enUS": "Warrior's Deadly",
     "zhTW": "",
@@ -17289,7 +17289,7 @@
     "zhCN": ""
   },
   {
-    "id": 28111,
+    "id": 31111,
     "Key": "Warrior's2",
     "enUS": "Warrior's Crushing",
     "zhTW": "",
@@ -17306,7 +17306,7 @@
     "zhCN": ""
   },
   {
-    "id": 28112,
+    "id": 31112,
     "Key": "Warrior's3",
     "enUS": "Warrior's Wounding",
     "zhTW": "",
@@ -17323,7 +17323,7 @@
     "zhCN": ""
   },
   {
-    "id": 28113,
+    "id": 31113,
     "Key": "Soldier's1",
     "enUS": "Soldier's Deadly",
     "zhTW": "",
@@ -17340,7 +17340,7 @@
     "zhCN": ""
   },
   {
-    "id": 28114,
+    "id": 31114,
     "Key": "Soldier's2",
     "enUS": "Soldier's Crushing",
     "zhTW": "",
@@ -17357,7 +17357,7 @@
     "zhCN": ""
   },
   {
-    "id": 28115,
+    "id": 31115,
     "Key": "Soldier's3",
     "enUS": "Soldier's Wounding",
     "zhTW": "",
@@ -17374,7 +17374,7 @@
     "zhCN": ""
   },
   {
-    "id": 28116,
+    "id": 31116,
     "Key": "Crusader's1",
     "enUS": "Crusader's",
     "zhTW": "",
@@ -17391,7 +17391,7 @@
     "zhCN": ""
   },
   {
-    "id": 28117,
+    "id": 31117,
     "Key": "Crusader's2",
     "enUS": "Crusader's Deadly",
     "zhTW": "",
@@ -17408,7 +17408,7 @@
     "zhCN": ""
   },
   {
-    "id": 28118,
+    "id": 31118,
     "Key": "Crusader's3",
     "enUS": "Crusader's Crushing",
     "zhTW": "",
@@ -17425,7 +17425,7 @@
     "zhCN": ""
   },
   {
-    "id": 28119,
+    "id": 31119,
     "Key": "Crusader's4",
     "enUS": "Crusader's Wounding",
     "zhTW": "",
@@ -17442,7 +17442,7 @@
     "zhCN": ""
   },
   {
-    "id": 28120,
+    "id": 31120,
     "Key": "Knight's1",
     "enUS": "Knight's Deadly",
     "zhTW": "",
@@ -17459,7 +17459,7 @@
     "zhCN": ""
   },
   {
-    "id": 28121,
+    "id": 31121,
     "Key": "Knight's2",
     "enUS": "Knight's Crushing",
     "zhTW": "",
@@ -17476,7 +17476,7 @@
     "zhCN": ""
   },
   {
-    "id": 28122,
+    "id": 31122,
     "Key": "Knight's3",
     "enUS": "Knight's Wounding",
     "zhTW": "",
@@ -17493,7 +17493,7 @@
     "zhCN": ""
   },
   {
-    "id": 28123,
+    "id": 31123,
     "Key": "Lord's1",
     "enUS": "Lord's Deadly",
     "zhTW": "",
@@ -17510,7 +17510,7 @@
     "zhCN": ""
   },
   {
-    "id": 28124,
+    "id": 31124,
     "Key": "Lord's2",
     "enUS": "Lord's Crushing",
     "zhTW": "",
@@ -17527,7 +17527,7 @@
     "zhCN": ""
   },
   {
-    "id": 28125,
+    "id": 31125,
     "Key": "Lord's3",
     "enUS": "Lord's Wounding",
     "zhTW": "",
@@ -17544,7 +17544,7 @@
     "zhCN": ""
   },
   {
-    "id": 28126,
+    "id": 31126,
     "Key": "Overlord's1",
     "enUS": "Overlord's",
     "zhTW": "",
@@ -17561,7 +17561,7 @@
     "zhCN": ""
   },
   {
-    "id": 28127,
+    "id": 31127,
     "Key": "Overlord's2",
     "enUS": "Overlord's Deadly",
     "zhTW": "",
@@ -17578,7 +17578,7 @@
     "zhCN": ""
   },
   {
-    "id": 28128,
+    "id": 31128,
     "Key": "Overlord's3",
     "enUS": "Overlord's Crushing",
     "zhTW": "",
@@ -17595,7 +17595,7 @@
     "zhCN": ""
   },
   {
-    "id": 28129,
+    "id": 31129,
     "Key": "Overlord's4",
     "enUS": "Overlord's Wounding",
     "zhTW": "",
@@ -17612,7 +17612,7 @@
     "zhCN": ""
   },
   {
-    "id": 28130,
+    "id": 31130,
     "Key": "King's1",
     "enUS": "King's Deadly",
     "zhTW": "",
@@ -17629,7 +17629,7 @@
     "zhCN": ""
   },
   {
-    "id": 28131,
+    "id": 31131,
     "Key": "King's2",
     "enUS": "King's Crushing",
     "zhTW": "",
@@ -17646,7 +17646,7 @@
     "zhCN": ""
   },
   {
-    "id": 28132,
+    "id": 31132,
     "Key": "King's3",
     "enUS": "King's Wounding",
     "zhTW": "",
@@ -17663,7 +17663,7 @@
     "zhCN": ""
   },
   {
-    "id": 28133,
+    "id": 31133,
     "Key": "Master's1",
     "enUS": "Master's Deadly",
     "zhTW": "",
@@ -17680,7 +17680,7 @@
     "zhCN": ""
   },
   {
-    "id": 28134,
+    "id": 31134,
     "Key": "Master's2",
     "enUS": "Master's Crushing",
     "zhTW": "",
@@ -17697,7 +17697,7 @@
     "zhCN": ""
   },
   {
-    "id": 28135,
+    "id": 31135,
     "Key": "Master's3",
     "enUS": "Master's Wounding",
     "zhTW": "",
@@ -17714,7 +17714,7 @@
     "zhCN": ""
   },
   {
-    "id": 28136,
+    "id": 31136,
     "Key": "Highmaster's1",
     "enUS": "Highmaster's",
     "zhTW": "",
@@ -17731,7 +17731,7 @@
     "zhCN": ""
   },
   {
-    "id": 28137,
+    "id": 31137,
     "Key": "Highmaster's2",
     "enUS": "Highmaster's Deadly",
     "zhTW": "",
@@ -17748,7 +17748,7 @@
     "zhCN": ""
   },
   {
-    "id": 28138,
+    "id": 31138,
     "Key": "Highmaster's3",
     "enUS": "Highmaster's Crushing",
     "zhTW": "",
@@ -17765,7 +17765,7 @@
     "zhCN": ""
   },
   {
-    "id": 28139,
+    "id": 31139,
     "Key": "Highmaster's4",
     "enUS": "Highmaster's Wounding",
     "zhTW": "",
@@ -17782,7 +17782,7 @@
     "zhCN": ""
   },
   {
-    "id": 28140,
+    "id": 31140,
     "Key": "Grandmaster's1",
     "enUS": "Grandmaster's Deadly",
     "zhTW": "",
@@ -17799,7 +17799,7 @@
     "zhCN": ""
   },
   {
-    "id": 28141,
+    "id": 31141,
     "Key": "Grandmaster's2",
     "enUS": "Grandmaster's Crushing",
     "zhTW": "",
@@ -17816,7 +17816,7 @@
     "zhCN": ""
   },
   {
-    "id": 28142,
+    "id": 31142,
     "Key": "Grandmaster's3",
     "enUS": "Grandmaster's Wounding",
     "zhTW": "",
@@ -17833,7 +17833,7 @@
     "zhCN": ""
   },
   {
-    "id": 28143,
+    "id": 31143,
     "Key": "Loremaster's2",
     "enUS": "Loremaster's Enchanted",
     "zhTW": "",
@@ -17850,7 +17850,7 @@
     "zhCN": ""
   },
   {
-    "id": 28144,
+    "id": 31144,
     "Key": "Sage's3",
     "enUS": "Sage's Enchanted",
     "zhTW": "",
@@ -17867,7 +17867,7 @@
     "zhCN": ""
   },
   {
-    "id": 28145,
+    "id": 31145,
     "Key": "Master Sage's2",
     "enUS": "Master Sage's Enchanted",
     "zhTW": "",
@@ -17884,7 +17884,7 @@
     "zhCN": ""
   },
   {
-    "id": 28146,
+    "id": 31146,
     "Key": "Ghostly1",
     "enUS": "Ghostly",
     "zhTW": "",
@@ -17901,7 +17901,7 @@
     "zhCN": ""
   },
   {
-    "id": 28147,
+    "id": 31147,
     "Key": "Spectral1",
     "enUS": "Spectral",
     "zhTW": "",
@@ -17918,7 +17918,7 @@
     "zhCN": ""
   },
   {
-    "id": 28148,
+    "id": 31148,
     "Key": "Phantom1",
     "enUS": "Phantom",
     "zhTW": "",
@@ -17935,7 +17935,7 @@
     "zhCN": ""
   },
   {
-    "id": 28149,
+    "id": 31149,
     "Key": "Wraithly1",
     "enUS": "Wraithly",
     "zhTW": "",
@@ -17952,7 +17952,7 @@
     "zhCN": ""
   },
   {
-    "id": 28150,
+    "id": 31150,
     "Key": "Precise1",
     "enUS": "Precise",
     "zhTW": "",
@@ -17969,7 +17969,7 @@
     "zhCN": ""
   },
   {
-    "id": 28151,
+    "id": 31151,
     "Key": "Fastidious1",
     "enUS": "Fastidious",
     "zhTW": "",
@@ -17986,7 +17986,7 @@
     "zhCN": ""
   },
   {
-    "id": 28152,
+    "id": 31152,
     "Key": "Meticulous1",
     "enUS": "Meticulous",
     "zhTW": "",
@@ -18003,7 +18003,7 @@
     "zhCN": ""
   },
   {
-    "id": 28153,
+    "id": 31153,
     "Key": "Veracious1",
     "enUS": "Veracious",
     "zhTW": "",
@@ -18020,7 +18020,7 @@
     "zhCN": ""
   },
   {
-    "id": 28154,
+    "id": 31154,
     "Key": "Consecrated1",
     "enUS": "Consecrated",
     "zhTW": "",
@@ -18037,7 +18037,7 @@
     "zhCN": ""
   },
   {
-    "id": 28155,
+    "id": 31155,
     "Key": "Hallowed1",
     "enUS": "Hallowed",
     "zhTW": "",
@@ -18054,7 +18054,7 @@
     "zhCN": ""
   },
   {
-    "id": 28156,
+    "id": 31156,
     "Key": "Strengthened1",
     "enUS": "Treated",
     "zhTW": "",
@@ -18071,7 +18071,7 @@
     "zhCN": ""
   },
   {
-    "id": 28157,
+    "id": 31157,
     "Key": "Reinforced1",
     "enUS": "Strengthened",
     "zhTW": "",
@@ -18088,7 +18088,7 @@
     "zhCN": ""
   },
   {
-    "id": 28158,
+    "id": 31158,
     "Key": "Fortified1",
     "enUS": "Reinforced",
     "zhTW": "",
@@ -18105,7 +18105,7 @@
     "zhCN": ""
   },
   {
-    "id": 28159,
+    "id": 31159,
     "Key": "Hardened1",
     "enUS": "Hardened",
     "zhTW": "",
@@ -18122,7 +18122,7 @@
     "zhCN": ""
   },
   {
-    "id": 28160,
+    "id": 31160,
     "Key": "Tempered1",
     "enUS": "Tempered",
     "zhTW": "",
@@ -18139,7 +18139,7 @@
     "zhCN": ""
   },
   {
-    "id": 28161,
+    "id": 31161,
     "Key": "Treated1",
     "enUS": "Fortified",
     "zhTW": "",
@@ -18156,7 +18156,7 @@
     "zhCN": ""
   },
   {
-    "id": 28162,
+    "id": 31162,
     "Key": "Invulnerable1",
     "enUS": "Invulnerable",
     "zhTW": "",
@@ -18173,7 +18173,7 @@
     "zhCN": ""
   },
   {
-    "id": 28163,
+    "id": 31163,
     "Key": "Sage's1",
     "enUS": "Sage's",
     "zhTW": "",
@@ -18190,7 +18190,7 @@
     "zhCN": ""
   },
   {
-    "id": 28164,
+    "id": 31164,
     "Key": "omniscient1",
     "enUS": "Omniscient",
     "zhTW": "",
@@ -18207,7 +18207,7 @@
     "zhCN": ""
   },
   {
-    "id": 28165,
+    "id": 31165,
     "Key": "gnostics1",
     "enUS": "Gnostics",
     "zhTW": "",
@@ -18224,7 +18224,7 @@
     "zhCN": ""
   },
   {
-    "id": 28166,
+    "id": 31166,
     "Key": "Impacting1",
     "enUS": "Impacting",
     "zhTW": "",
@@ -18241,7 +18241,7 @@
     "zhCN": ""
   },
   {
-    "id": 28167,
+    "id": 31167,
     "Key": "Fracturing1",
     "enUS": "Fracturing",
     "zhTW": "",
@@ -18258,7 +18258,7 @@
     "zhCN": ""
   },
   {
-    "id": 28168,
+    "id": 31168,
     "Key": "Crushing1",
     "enUS": "Crushing",
     "zhTW": "",
@@ -18275,7 +18275,7 @@
     "zhCN": ""
   },
   {
-    "id": 28169,
+    "id": 31169,
     "Key": "deadly1",
     "enUS": "Deadly",
     "zhTW": "",
@@ -18292,7 +18292,7 @@
     "zhCN": ""
   },
   {
-    "id": 28170,
+    "id": 31170,
     "Key": "lethal1",
     "enUS": "Lethal",
     "zhTW": "",
@@ -18309,7 +18309,7 @@
     "zhCN": ""
   },
   {
-    "id": 28171,
+    "id": 31171,
     "Key": "fatal1",
     "enUS": "Fatal",
     "zhTW": "",
@@ -18326,7 +18326,7 @@
     "zhCN": ""
   },
   {
-    "id": 28172,
+    "id": 31172,
     "Key": "Elemental1",
     "enUS": "Elemental",
     "zhTW": "",
@@ -18343,7 +18343,7 @@
     "zhCN": ""
   },
   {
-    "id": 28173,
+    "id": 31173,
     "Key": "Loremaster's1",
     "enUS": "Loremaster's",
     "zhTW": "",
@@ -18360,7 +18360,7 @@
     "zhCN": ""
   },
   {
-    "id": 28174,
+    "id": 31174,
     "Key": "Sage's2",
     "enUS": "Sage's",
     "zhTW": "",
@@ -18377,7 +18377,7 @@
     "zhCN": ""
   },
   {
-    "id": 28175,
+    "id": 31175,
     "Key": "Master Sage's1",
     "enUS": "Master Sage's",
     "zhTW": "",
@@ -18394,7 +18394,7 @@
     "zhCN": ""
   },
   {
-    "id": 28176,
+    "id": 31176,
     "Key": "Bronze-Wrought",
     "enUS": "Bronze-Wrought",
     "zhTW": "",
@@ -18411,7 +18411,7 @@
     "zhCN": ""
   },
   {
-    "id": 28177,
+    "id": 31177,
     "Key": "Iron-Wrought",
     "enUS": "Iron-Wrought",
     "zhTW": "",
@@ -18428,7 +18428,7 @@
     "zhCN": ""
   },
   {
-    "id": 28178,
+    "id": 31178,
     "Key": "Steel-Wrought",
     "enUS": "Steel-Wrought",
     "zhTW": "",
@@ -18445,7 +18445,7 @@
     "zhCN": ""
   },
   {
-    "id": 28179,
+    "id": 31179,
     "Key": "Silver-Wrought",
     "enUS": "Silver-Wrought",
     "zhTW": "",
@@ -18462,7 +18462,7 @@
     "zhCN": ""
   },
   {
-    "id": 28180,
+    "id": 31180,
     "Key": "Platimum-Wrought",
     "enUS": "Platimum-Wrought",
     "zhTW": "",
@@ -18479,7 +18479,7 @@
     "zhCN": ""
   },
   {
-    "id": 28181,
+    "id": 31181,
     "Key": "Titanium-Wrought",
     "enUS": "Titanium-Wrought",
     "zhTW": "",
@@ -18496,7 +18496,7 @@
     "zhCN": ""
   },
   {
-    "id": 28182,
+    "id": 31182,
     "Key": "Mithril-Wrought",
     "enUS": "Mithril-Wrought",
     "zhTW": "",
@@ -18513,7 +18513,7 @@
     "zhCN": ""
   },
   {
-    "id": 28183,
+    "id": 31183,
     "Key": "Adamantine-Wrought",
     "enUS": "Adamantine-Wrought",
     "zhTW": "",
@@ -18530,7 +18530,7 @@
     "zhCN": ""
   },
   {
-    "id": 28184,
+    "id": 31184,
     "Key": "Aureole",
     "enUS": "Aureole",
     "zhTW": "",
@@ -18547,7 +18547,7 @@
     "zhCN": ""
   },
   {
-    "id": 28185,
+    "id": 31185,
     "Key": "Pyromaniac's2",
     "enUS": "Pyromaniac's",
     "zhTW": "",
@@ -18564,7 +18564,7 @@
     "zhCN": ""
   },
   {
-    "id": 28186,
+    "id": 31186,
     "Key": "Frost Wyrm's2",
     "enUS": "Frost Wyrm's",
     "zhTW": "",
@@ -18581,7 +18581,7 @@
     "zhCN": ""
   },
   {
-    "id": 28187,
+    "id": 31187,
     "Key": "Zeus's2",
     "enUS": "Zeus's",
     "zhTW": "",
@@ -18598,7 +18598,7 @@
     "zhCN": ""
   },
   {
-    "id": 28188,
+    "id": 31188,
     "Key": "Manticore's2",
     "enUS": "Manticore's",
     "zhTW": "",
@@ -18615,7 +18615,7 @@
     "zhCN": ""
   },
   {
-    "id": 28189,
+    "id": 31189,
     "Key": "Charged1",
     "enUS": "Charged",
     "zhTW": "",
@@ -18632,7 +18632,7 @@
     "zhCN": ""
   },
   {
-    "id": 28190,
+    "id": 31190,
     "Key": "of Defense1",
     "enUS": "of Defense",
     "zhTW": "",
@@ -18649,7 +18649,7 @@
     "zhCN": ""
   },
   {
-    "id": 28191,
+    "id": 31191,
     "Key": "of Guarding1",
     "enUS": "of Guarding",
     "zhTW": "",
@@ -18666,7 +18666,7 @@
     "zhCN": ""
   },
   {
-    "id": 28192,
+    "id": 31192,
     "Key": "of the Lich1",
     "enUS": "of the Lich",
     "zhTW": "",
@@ -18683,7 +18683,7 @@
     "zhCN": ""
   },
   {
-    "id": 28193,
+    "id": 31193,
     "Key": "of Fire Coalescence1",
     "enUS": "of Fire Coalescence",
     "zhTW": "",
@@ -18700,7 +18700,7 @@
     "zhCN": ""
   },
   {
-    "id": 28194,
+    "id": 31194,
     "Key": "of Lightning Coalescence1",
     "enUS": "of Lightning Coalescence",
     "zhTW": "",
@@ -18717,7 +18717,7 @@
     "zhCN": ""
   },
   {
-    "id": 28195,
+    "id": 31195,
     "Key": "of Chilling Coalescence1",
     "enUS": "of Chilling Coalescence",
     "zhTW": "",
@@ -18734,7 +18734,7 @@
     "zhCN": ""
   },
   {
-    "id": 28196,
+    "id": 31196,
     "Key": "of Winter2",
     "enUS": "of Winter's Chill",
     "zhTW": "",
@@ -18751,7 +18751,7 @@
     "zhCN": ""
   },
   {
-    "id": 28197,
+    "id": 31197,
     "Key": "of Summer2",
     "enUS": "of Summer Flame",
     "zhTW": "",
@@ -18768,7 +18768,7 @@
     "zhCN": ""
   },
   {
-    "id": 28198,
+    "id": 31198,
     "Key": "of Spring2",
     "enUS": "of Spring Storms",
     "zhTW": "",
@@ -18785,7 +18785,7 @@
     "zhCN": ""
   },
   {
-    "id": 28199,
+    "id": 31199,
     "Key": "of Autumn2",
     "enUS": "of Autumn's Decay",
     "zhTW": "",
@@ -18802,7 +18802,7 @@
     "zhCN": ""
   },
   {
-    "id": 28200,
+    "id": 31200,
     "Key": "of the Four Seasons2",
     "enUS": "of the Four Seasons",
     "zhTW": "",
@@ -18819,7 +18819,7 @@
     "zhCN": ""
   },
   {
-    "id": 28201,
+    "id": 31201,
     "Key": "of Agility2",
     "enUS": "of Agility",
     "zhTW": "",
@@ -18836,7 +18836,7 @@
     "zhCN": ""
   },
   {
-    "id": 28202,
+    "id": 31202,
     "Key": "of Power2",
     "enUS": "of Power",
     "zhTW": "",
@@ -18853,7 +18853,7 @@
     "zhCN": ""
   },
   {
-    "id": 28203,
+    "id": 31203,
     "Key": "of Endurance2",
     "enUS": "of Endurance",
     "zhTW": "",
@@ -18870,7 +18870,7 @@
     "zhCN": ""
   },
   {
-    "id": 28204,
+    "id": 31204,
     "Key": "of Spirit2",
     "enUS": "of Spirit",
     "zhTW": "",
@@ -18887,7 +18887,7 @@
     "zhCN": ""
   },
   {
-    "id": 28205,
+    "id": 31205,
     "Key": "of the Sky1",
     "enUS": "of the Sky",
     "zhTW": "",
@@ -18904,7 +18904,7 @@
     "zhCN": ""
   },
   {
-    "id": 28206,
+    "id": 31206,
     "Key": "of the Stars1",
     "enUS": "of the Stars",
     "zhTW": "",
@@ -18921,7 +18921,7 @@
     "zhCN": ""
   },
   {
-    "id": 28207,
+    "id": 31207,
     "Key": "of the Heavens1",
     "enUS": "of the Heavens",
     "zhTW": "",
@@ -18938,7 +18938,7 @@
     "zhCN": ""
   },
   {
-    "id": 28208,
+    "id": 31208,
     "Key": "of the Zodiac1",
     "enUS": "of the Zodiac",
     "zhTW": "",
@@ -18955,7 +18955,7 @@
     "zhCN": ""
   },
   {
-    "id": 28209,
+    "id": 31209,
     "Key": "of Vampiric Essence2",
     "enUS": "of Vampiric Essence",
     "zhTW": "",
@@ -18972,7 +18972,7 @@
     "zhCN": ""
   },
   {
-    "id": 28210,
+    "id": 31210,
     "Key": "of the Wight2",
     "enUS": "of the Wight",
     "zhTW": "",
@@ -18989,7 +18989,7 @@
     "zhCN": ""
   },
   {
-    "id": 28211,
+    "id": 31211,
     "Key": "of the Dragon's Spirit2",
     "enUS": "of the Dragon's Spirit",
     "zhTW": "",
@@ -19006,7 +19006,7 @@
     "zhCN": ""
   },
   {
-    "id": 28212,
+    "id": 31212,
     "Key": "of the Soul2",
     "enUS": "of the Soul",
     "zhTW": "",
@@ -19023,7 +19023,7 @@
     "zhCN": ""
   },
   {
-    "id": 28213,
+    "id": 31213,
     "Key": "of Bartering1",
     "enUS": "of Bartering",
     "zhTW": "",
@@ -19040,7 +19040,7 @@
     "zhCN": ""
   },
   {
-    "id": 28214,
+    "id": 31214,
     "Key": "of Haggling1",
     "enUS": "of Haggling",
     "zhTW": "",
@@ -19057,7 +19057,7 @@
     "zhCN": ""
   },
   {
-    "id": 28215,
+    "id": 31215,
     "Key": "of Charming1",
     "enUS": "of Charming",
     "zhTW": "",
@@ -19074,7 +19074,7 @@
     "zhCN": ""
   },
   {
-    "id": 28216,
+    "id": 31216,
     "Key": "Sapping1",
     "enUS": "of Sapping",
     "zhTW": "",
@@ -19091,7 +19091,7 @@
     "zhCN": ""
   },
   {
-    "id": 28217,
+    "id": 31217,
     "Key": "Stunning1",
     "enUS": "of Stunning",
     "zhTW": "",
@@ -19108,7 +19108,7 @@
     "zhCN": ""
   },
   {
-    "id": 28218,
+    "id": 31218,
     "Key": "Paralysis1",
     "enUS": "of Paralysis",
     "zhTW": "",
@@ -19125,7 +19125,7 @@
     "zhCN": ""
   },
   {
-    "id": 28219,
+    "id": 31219,
     "Key": "of Blindness1",
     "enUS": "of Blindness",
     "zhTW": "",
@@ -19142,7 +19142,7 @@
     "zhCN": ""
   },
   {
-    "id": 28220,
+    "id": 31220,
     "Key": "of Reanimation1",
     "enUS": "of Reanimation",
     "zhTW": "",
@@ -19159,7 +19159,7 @@
     "zhCN": ""
   },
   {
-    "id": 28221,
+    "id": 31221,
     "Key": "of Burst of Speed2",
     "enUS": "of Burst of Speed",
     "zhTW": "",
@@ -19176,7 +19176,7 @@
     "zhCN": ""
   },
   {
-    "id": 28222,
+    "id": 31222,
     "Key": "of Cloak of Shadows2",
     "enUS": "of Cloak of Shadows",
     "zhTW": "",
@@ -19193,7 +19193,7 @@
     "zhCN": ""
   },
   {
-    "id": 28223,
+    "id": 31223,
     "Key": "of Fading2",
     "enUS": "of Fading",
     "zhTW": "",
@@ -19210,7 +19210,7 @@
     "zhCN": ""
   },
   {
-    "id": 28224,
+    "id": 31224,
     "Key": "of Mind Blasting2",
     "enUS": "of Mind Blasting",
     "zhTW": "",
@@ -19227,7 +19227,7 @@
     "zhCN": ""
   },
   {
-    "id": 28225,
+    "id": 31225,
     "Key": "of Blade Shield2",
     "enUS": "of Blade Shield",
     "zhTW": "",
@@ -19244,7 +19244,7 @@
     "zhCN": ""
   },
   {
-    "id": 28226,
+    "id": 31226,
     "Key": "of Venom2",
     "enUS": "of Venom",
     "zhTW": "",
